@@ -1,0 +1,53 @@
+/* -------------- // Circular Purpose Section // --------------*/
+.artifact__title {
+    justify-content: center;
+    flex-direction: column;
+    grid-column-start: 2;
+    grid-column-end: 7;
+}
+
+.artifact__specs {
+    justify-content: center;
+    flex-direction: column;
+    grid-column-start: 7;
+    grid-column-end: 12;
+    padding-left: 79px;
+}
+
+.artifact-specs__ind-text {
+    margin-bottom: 1.4rem;
+}
+
+/* -------------- // Circular Brainstorming Section // --------------*/
+.artifact-brainstorm__title {
+    justify-content: center;
+    flex-direction: column;
+}
+
+/* -------------- // Circular Concept Section // --------------*/
+.artifact-concept__title {
+    justify-content: center;
+    flex-direction: column;
+}
+
+/* -------------- // Circular Final Section // --------------*/
+.artifact-final .btn {
+    width: 206px;
+    height: 54px;
+}
+
+.sctn-box__title-cont.artifact-final__title {
+    padding: 0;
+}
+
+.artifact-pad-b {
+    padding: 0 0 40px;
+}
+
+.artifact-bottom {
+    margin: 0 0 100px;
+}
+
+
+
+

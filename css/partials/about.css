@@ -1,0 +1,49 @@
+/* -------------- // About Section Container // --------------*/
+.about-sctn-box__title-cont {
+    height: 120px;
+}
+
+.about-sctn-box__body-cont {
+    flex-direction: column;
+    justify-content: center;
+    border-left: 1px solid #000;
+    padding: 40px 30px;
+}
+
+/* -------------- // About Bio // --------------*/
+.about-bio__content {
+    order: 3;
+}
+
+/* -------------- // About Skillset // --------------*/
+.about-skill-content {
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+/* -------------- // About SNS // --------------*/
+.about-sns-content {
+    flex-direction: column;
+    justify-content: center;
+    align-items: end;
+}
+
+.about-sns__title {
+    color: white;
+}
+
+.about__ind-sns {
+    align-items: center;
+    padding-right: 35px;
+}
+
+.about__ind-sns li {
+    padding-bottom: 10px;
+}
+
+.sns-txt {
+    padding-left: 10px;
+}
+
+

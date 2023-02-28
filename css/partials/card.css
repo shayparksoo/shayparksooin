@@ -1,0 +1,116 @@
+/* -------------- // UI UX Header // --------------*/
+.uiux__cards.work__cont {
+    border-bottom: 0px;
+}
+
+/* -------------- // Card Image // --------------*/
+
+.card-img {
+    background-size: cover;
+    background-position: center;
+    height: 420px;
+    width: auto;
+    overflow: hidden;
+}
+
+.enlarge-img-3 {
+    height: 100%;
+    max-width: 294px;
+    object-fit: cover;
+}
+
+.enlarge-img-2 {
+    height: 100%;
+    max-width: 437px;
+    object-fit: cover;
+}
+
+
+/* -------------- // Card Image - Circular // --------------*/
+.card-img__circular {
+    background-image: url(../../img/circular-card.png);
+    transition: all .5s ease;
+}
+.card-img__circular:hover {
+    transform: scale(1.1);
+}
+
+.card-img__circular-ref1 {
+    background-image: url(../../img/circular-ref1.png);
+}
+
+.card-img__circular-ref2 {
+    background-image: url(../../img/circular-ref2.png);
+}
+
+.card-img__circular-ref3 {
+    background-image: url(../../img/circular-ref3.png);
+}
+
+.card-img__circular-wire1 {
+    background-image: url(../../img/circular-lofi1.png);
+}
+
+.card-img__circular-wire2 {
+    background-image: url(../../img/circular-lofi2.png);
+}
+
+/* -------------- // Card Image - Circular // --------------*/
+.circular-wire {
+    height: 100%;
+    width: 100%;
+}
+
+/* -------------- // Card Image - One Tap // --------------*/
+.card-img__onetap {
+    background-image: url(../../img/one-tap-card.png);
+    transition: all .5s ease;
+}
+
+.card-img__onetap:hover {
+    transform: scale(1.1);
+}
+
+/* -------------- // Card Image - Kart Rider // --------------*/
+.card-img__kart {
+    background-image: url(../../img/kart-rider-card.png);
+    transition: all .5s ease;
+}
+
+.card-img__kart:hover {
+    transform: scale(1.1);
+}
+
+.card-img__kart-ref1 {
+    background-image: url(../../img/kart-ref1.png);
+}
+
+.card-img__kart-ref2 {
+    background-image: url(../../img/kart-ref2.png);
+}
+
+.card-img__kart-ref3 {
+    background-image: url(../../img/kart-ref3.png);
+}
+
+/* -------------- // Card Image - Jarritos // --------------*/
+.card-img__jarritos {
+    background-image: url(../../img/jarritos-card.png);
+}
+
+.card-img__jarritos-ref1 {
+    background-image: url(../../img/jarritos-ref1.png);
+}
+
+.card-img__jarritos-ref2 {
+    background-image: url(../../img/jarritos-ref2.png);
+}
+
+.card-img__jarritos-ref3 {
+    background-image: url(../../img/jarritos-ref3.png);
+}
+
+.jarritos-ref-cont.grid {
+    gap: 0;
+}
+

@@ -1,0 +1,738 @@
+/* -------------- // Responsive // --------------*/
+
+/* -------------- // 300px // --------------*/
+@media screen and (min-width: 300px) {
+    .col-1-sm { grid-column: span 1; }
+    .col-2-sm { grid-column: span 2; }
+    .col-3-sm { grid-column: span 3; }
+    .col-4-sm { grid-column: span 4; }
+    .col-5-sm { grid-column: span 5; }
+    .col-6-sm { grid-column: span 6; }
+    .col-7-sm { grid-column: span 7; }
+    .col-8-sm { grid-column: span 8; }
+    .col-9-sm { grid-column: span 9; }
+    .col-10-sm { grid-column: span 10; }
+    .col-11-sm { grid-column: span 11; }
+    .col-12-sm { grid-column: span 12; }
+
+    /* UTIL */
+
+    .padding-bottom {
+        padding-bottom: 40px;
+    }
+
+    .padding-top {
+        padding-top: 60px;
+    }
+
+    .padding-49-r {
+        padding-right: unset;
+    }
+
+    .artifact__specs {
+        padding: 12px 18px;
+    }
+
+    
+
+    .circular-wire-container {
+        height: 700px;
+    }
+
+    .work__ind-card {
+        border-right: 1px solid #000;
+    }
+
+    .work__ind-card:first-child {
+        border-bottom: 1px solid #000;
+    }
+
+    .work__ind-card.graphic-card {
+        border-bottom: 0;
+    }
+
+    .work__ind-card.photo-card {
+        border-bottom: 0;
+    }
+
+    .work__ind-card:nth-child(2) {
+        border-bottom: 1px solid #000;
+    }
+
+    .work__ind-card.work_onetap:nth-child(2) {
+        border-bottom: 0;
+    }
+
+
+    .home-hero__name {
+        padding-bottom: 49px;
+        text-align: center;
+    }
+
+    .home-hero__name h1 {
+        font-size: 3rem;
+    }
+
+    .home-hero__logo {
+        justify-content: center;
+        height: 160px;
+    }
+
+    /*-------------- // HOME ABOUT //  --------------*/
+    .home-about {
+        border-right: 1px solid #000;
+        border-left: 1px solid #000;
+        padding: 49px 28px;
+    }
+
+    .home-about__title-cont {
+        border-bottom: 1px solid #000;
+    }
+
+    /*-------------- // HOME PORTFOLIO WORK //  --------------*/
+    
+    .home-card:first-child {
+        border-right: 1px solid #000;
+    }
+
+    /*-------------- // HOME CONTACT //  --------------*/
+    .home-contact__title-cont {
+        order:-1;
+        border-bottom: 1px solid #000;
+    }
+
+    .home-contact__body-cont {
+        padding: 49px;
+        border-right: 1px solid #000;
+    }
+
+    /*-------------- // ABOUT Page //  --------------*/
+    .about-skill-content {
+        order: 2;
+        border-left: 1px solid #000;
+        border-right: 1px solid #000;
+        border-top: 1px solid #000;
+        padding-left: 30px;
+        align-items: center;
+    }
+
+    .about-interest-title {
+        border-right: 1px solid #000;
+    }
+
+    .about-interest-content {
+        padding: 30px;
+        border-right: 1px solid #000;
+        border-top: 1px solid #000;
+    }
+
+
+    .about-sns-content {
+        order: 2;
+        border-left: 1px solid #000;
+        border-right: 1px solid #000;
+        align-items: center;
+    }
+
+    /*-------------- // ABOUT BIO //  --------------*/
+    .about-bio-txt {
+        padding: 40px 30px;
+        border-right: 1px solid #000;
+        border-left: 1px solid #000;
+    }
+
+    .profile {
+        height: 100%;
+        width: 100%;
+        margin: 0 auto;
+        border-bottom: 1px solid #000;
+    }
+
+     /*-------------- // ARTIFACT //  --------------*/
+     .enlarge-img-2,.enlarge-img-3 {
+        max-width: 287px;
+    }
+
+    .circular-wire-container {
+        height: 456px;
+    }
+
+    .circular-ref-1 {
+        border-bottom: 1px solid #000;
+    }
+
+    .circular-ref-1,.circular-wire-1 {
+        border-top: 1px solid #000;
+    }
+
+    .artifact__title,.artifact-concept__title,.circular-ux__title {
+        border-left: 1px solid #000;
+    }
+
+    .artifact__specs,.artifact__title,.artifact-concept__title, .enlarge-img-3,.circular-ux__title, .enlarge-img-2 {
+        border-right: 1px solid #000;
+    }
+
+
+    
+}
+
+
+
+/* -------------- // ******** 768px ******* // --------------*/
+@media screen and (min-width: 768px) { 
+    .col-1-md { grid-column: span 1; }
+    .col-2-md { grid-column: span 2; }
+    .col-3-md { grid-column: span 3; }
+    .col-4-md { grid-column: span 4; }
+    .col-5-md { grid-column: span 5; }
+    .col-6-md { grid-column: span 6; }
+    .col-7-md { grid-column: span 7; }
+    .col-8-md { grid-column: span 8; }
+    .col-9-md { grid-column: span 9; }
+    .col-10-md { grid-column: span 10; }
+    .col-11-md { grid-column: span 11; }
+    .col-12-md { grid-column: span 12; }
+
+    .padding-left {
+        padding-left: 49px;
+        padding-right: 102px;
+    }
+
+    .header-box__title-cont {
+        position: relative;
+        height: 160px;
+        width: 100%;
+    }
+
+    .work__ind-card .card-content {
+        padding: 45px 69px;
+       
+    }
+
+    .grid {
+        padding: 0 72px;
+    }
+
+    .gn-container ul{
+        font-size: 1rem;
+        column-gap: 1.2rem;
+    }
+    
+    .footer {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .footer__copyright {
+        order: 0;
+    }
+
+    .work__ind-card:first-child {
+        border-bottom: 0;
+    }
+
+    .work__ind-card:nth-child(2) {
+        border-bottom: 0;
+        border-left: 0;
+    }
+
+    .sctn-box__title-cont {
+        padding: 40px 34px;
+    }
+
+    /*-------------- // HEADER //  --------------*/
+    .about-header__cont {
+        background-color: #fff;
+    }
+
+    .uiux-header__cont {
+        background-color: #fff;
+    }
+
+    .graphic-header__cont {
+        background-color: #fff;
+    }
+
+    .photo-header__cont {
+        background-color: #fff;
+    }
+
+    /*-------------- // HOME HERO //  --------------*/
+    .home-hero__logo {
+        justify-content: flex-end;
+        height: 240px;
+    }
+
+    .home-hero__name {
+        padding-bottom: 0;
+        text-align: left;
+    }
+
+    .home-hero__name h1 {
+        font-size: 3.75rem;
+    }
+
+    .home-about {
+        border-top: 0px;
+        border-right: 0;
+        border-left: 0;
+        /* padding: 0; */
+    }
+
+    .home-about {
+        padding-right: unset;
+    }
+
+    .home-about__title-cont {
+        border-bottom: 0;
+    }
+
+    .home-about__title-cont {
+        height: 285px;
+    }
+
+    .home-contact__title-cont {
+        height: 266px;
+    }
+
+    .home-right {
+        top: 73%;
+        left: -13%;
+        text-align: right;
+    }
+
+    .home-left {
+        top: 74%;
+        right: -10%;
+        text-align: left;
+    }
+    
+    .home-card:first-child{
+        border-bottom: 1px solid #000;
+    }
+
+    .home-card:nth-child(2) {
+        border-bottom: 1px solid #000;
+    }
+
+
+    .home-contact__title-cont {
+        order:1;
+        border-bottom: 0;
+    }
+
+    .home-contact__title-cont.border-l {
+        border-left: unset;
+    }
+
+    /*-------------- // ABOUT Page //  --------------*/
+    .abt-left {
+        margin: unset;
+        left: 8%;
+        top: 69%;
+    }
+
+    .abt-right {
+        margin: unset;
+        position: relative;
+        top: 69%;
+        right: 8%;
+
+    }
+
+    .header-right {
+        top: 46%;
+        text-align: end;
+        left: -8%;
+    }
+
+    .about-bio-txt {
+        padding: 100px 49px;
+    }
+    
+    .about-bio-txt {
+        padding: 40px 38px;
+        border: 0;
+    }
+    
+    .profile {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+        border-bottom: 0;
+    }
+
+    .about-sctn-box__title-cont {
+        height: 210px;
+    }
+
+    .about-skill-content {
+        order: -1;
+        border-left: 0;
+        border-right: 0;
+        border-top: 0;
+        padding: 0;
+        align-items: flex-end;
+        text-align: end;
+        padding-right: 44px;
+    }
+
+    .about-interest-title {
+        border-right: 0;
+    }
+
+    .about-interest-content {
+        /* padding: 0px; */
+        border-right: 0;
+        border-top: 0;
+    }
+
+    .about-sns-content {
+        order: -1;
+        border-left: 0;
+        border-right: 0;
+        align-items: flex-end;
+        padding-right: 0;
+    }
+
+    /*-------------- // ARTIFACTS //  --------------*/
+    .sctn-box__title-cont.artifact-final__title {
+        padding: 40px 0;
+    }
+    
+    .enlarge-img-2 {
+        max-width: 310px;
+    }
+
+    .enlarge-img-3 {
+        max-width: 207px;
+    }
+
+    .circular-wire-container {
+        height: 497px;
+    }
+
+    .circular-ref-1 {
+        border-bottom: 1px solid #000;
+    }
+
+    .circular-ref-1,.circular-wire-1 {
+        border-top: 0px solid #000;
+    }
+
+    .circular-ref-img3,.circular-wireframe__title {
+        border-right: 1px solid #000;
+    }
+
+    .artifact-concept__title,.circular-wireframe__title {
+        border-bottom: 1px solid #000;
+    }
+
+    .circular-ref-1 {
+        border-bottom: unset;
+    }
+
+    .artifact__title,.enlarge-img-3,.enlarge-img-2,.circular-wireframe__title {
+        border-right: unset;
+
+    }
+
+    .circular-ux__title {
+        border-left: unset;
+    }
+
+    .circular-wireframe__title,.tb-r {
+        border-right: 1px solid #000;
+    }
+
+    .circular-wireframe__title,.tb-l {
+        border-left: 1px solid #000;
+    }
+
+
+}
+
+/* -------------- // *****1024px***** // --------------*/
+@media screen and (min-width: 1024px) {
+    
+    .col-1 { grid-column: span 1; }
+    .col-2 { grid-column: span 2; }
+    .col-3 { grid-column: span 3; }
+    .col-4 { grid-column: span 4; }
+    .col-5 { grid-column: span 5; }
+    .col-6 { grid-column: span 6; }
+    .col-7 { grid-column: span 7; }
+    .col-8 { grid-column: span 8; }
+    .col-9 { grid-column: span 9; }
+    .col-10 { grid-column: span 10; }
+    .col-11 { grid-column: span 11; }
+    .col-12 { grid-column: span 12; }
+
+    h1 {
+        font-size: 3.75rem;
+    }
+
+    .gn-container ul{
+        font-size: 1rem;
+        column-gap: 1.2rem;
+    }
+    
+    .footer {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .footer__copyright {
+        order: 0;
+    }
+
+    /*-------------- // UTIL //  --------------*/
+
+    .header-right {
+        top: 52%;
+        left: -10%;
+    }
+
+    .header-box__title-cont {
+        height: 190px;
+    }
+
+    .artifact__specs {
+        padding-left: 79px;
+    }
+    
+
+    /*-------------- // HOME PORTFOLIO WORK //  --------------*/
+    .home-hero__logo {
+        justify-content: center;
+        height: 240px;
+    }
+
+    .home-about__title-cont {
+        height: 264px;
+    }
+
+    .home-contact__title-cont {
+        height: 227px;
+    }
+
+    .home-right {
+        top: 70%;
+        left: -8%;
+    }
+
+    .home-left {
+        top: 70%;
+        right: -8%;
+    }
+    
+    .work__ind-card:first-child {
+        border-bottom: 0;
+    }
+
+    .work__ind-card:nth-child(2) {
+        border-right: 0;
+        border-bottom: 0;
+    }
+
+    .work__ind-card.work_onetap:nth-child(2) {
+        border-right: 1px solid #000;
+    }
+
+    .profile {
+        width: 600px;
+        height: 480px;
+    }
+
+  
+    /*-------------- // ABOUT PAGE //  --------------*/
+    .abt-left {
+        left: 7%;
+        top: 70%;
+    }
+
+    .abt-right {
+        right: 8%;
+        top: 69%;
+    }
+
+    .about-sctn-box__title-cont {
+        height: 220px;
+    }
+
+    .work_onetap {
+        border-right: 1px solid #000;
+    }
+
+    /*-------------- // ARTIFACT //  --------------*/
+    .enlarge-img-2 {
+        max-width: 329px;
+    }
+    
+    .enlarge-img-3 {
+        max-width: 343px;
+        object-fit: fill;
+    }
+
+    .circular-wire-container {
+        height: 527px;
+    }
+
+    .circular-wireframe__title,.artifact-concept__title {
+        border-right: unset;
+    }
+
+    .artifact-concept__title,.circular-wireframe__title {
+        border-bottom: unset;
+    }
+
+
+}
+
+/* -------------- // ******** 2000px ******* // --------------*/
+@media screen and (min-width: 2000px) { 
+    .col-1-xl { grid-column: span 1; }
+    .col-2-xl { grid-column: span 2; }
+    .col-3-xl { grid-column: span 3; }
+    .col-4-xl { grid-column: span 4; }
+    .col-5-xl { grid-column: span 5; }
+    .col-6-xl { grid-column: span 6; }
+    .col-7-xl { grid-column: span 7; }
+    .col-8-xl { grid-column: span 8; }
+    .col-9-xl { grid-column: span 9; }
+    .col-10-xl { grid-column: span 10; }
+    .col-11-xl { grid-column: span 11; }
+    .col-12-xl { grid-column: span 12; }
+
+    /* -------------- // heading //  --------------*/
+    h1 {
+        font-size: 4rem;
+    }
+
+    h2 {
+        font-size: 2.8rem;
+    }
+
+    h3 {
+        font-size: 1.9rem;
+        padding-bottom: 12px;
+    }
+
+    h4 {
+        font-size: 1.65rem;
+    }
+
+    .caption {
+        font-size: 1.2rem;
+    }
+
+    .card-body {
+        font-size: 1.3rem;
+    }
+
+    .card-category {
+        font-size: 1.4rem;
+    }
+
+    .subtitle {
+        font-size: 1.3rem
+    }
+
+
+    .sec-body-md {
+        font-size: 1.45rem;
+        line-height: 30px;
+    }
+
+    .button-txt {
+        font-size: 1.125rem;
+    }
+
+
+
+    /* -------------- // HELPER CLASS //  --------------*/
+
+    .sec-body-sm  {
+        font-size: 1.4rem;
+        line-height: 1.9rem;
+    }
+
+    .gn li a {
+        font-size: 1.4rem;
+    }
+
+    .gn-container {
+        height: 100px
+    }
+
+    .header-box__title-cont {
+        height: 260px;
+    }
+
+    .header-right {
+        top: 58%;
+        left: -8%;
+    }
+    .abt-left {
+        left: 8%;
+         top: 60%;
+    }
+
+    .abt-right {
+        left: -6%;
+        top: 60%;
+    }
+
+    .btn {
+        width: 160px;
+        height: 50px;
+    }
+
+    /* -------------- // Home //  --------------*/
+
+    .home-hero__logo {
+        justify-content: center;
+        height: 280px;
+    }
+
+    .home-about__title-cont, .home-contact__title-cont {
+        height: 260px;
+    }
+
+    .home-right {
+        top: 64%;
+        left: -7%;
+    }
+
+    .home-left {
+        top: 64%;
+        right: -7%;
+    }
+
+    /* -------------- // Artifacts //  --------------*/
+
+    .caption {
+        padding-top: 70px;
+    }
+
+    .artifact__specs {
+        padding: 40px;
+    }
+
+
+    .sctn-box__title-cont.artifact-final__title {
+        padding: 60px 0 20px;
+    }
+
+    .artifact-brainstorm__title {
+        padding: 60px 34px;
+    }
+
+
+
+
+    
+
+
+}

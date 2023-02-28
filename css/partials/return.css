@@ -1,0 +1,12 @@
+/* -------------- // Return Button for Pages // --------------*/
+.return {
+    height: 9.875rem;
+    width: 100%;
+    align-items: center;
+}
+
+.return .btn {
+    width: 206px;
+    height: 54px;
+    margin: 0 auto;
+}

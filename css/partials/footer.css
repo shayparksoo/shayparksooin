@@ -1,0 +1,27 @@
+/* -------------- // Footer // --------------*/
+.footer {
+    flex-direction: column;
+    align-items: center;
+    padding: var(--column-gap);
+    color: #646464;
+    border-top: 1px solid #000;
+    order: 9;
+}
+
+.footer__logo img{
+    width: 3rem;
+    max-width: 100%;
+    filter: saturate(0);
+    opacity: 0.5;
+}
+
+.footer__icon ul{
+    flex-direction: row;
+    display: flex;
+    gap: var(--column-gap);
+}
+
+.footer__copyright {
+    order: 3;
+}
+

@@ -1,0 +1,10 @@
+<section class="circular-ux border-b">
+    <div class="grid">
+        <div class="sctn-box__title-cont col col-12 circular-ux__title">
+            <h3>Photoshoot &amp; Poster Creation</h3>
+            <p class="card-body">After the colour, layout, and props were finalized, the props were purchased for the test shoot. The test shoot was initiated to figure out the lights, camera, and props. Home light stands such as desk lamps were used to replace professional lighting. I placed the main lamp on the left of the camera, second small lamp on the back of the bottle to have back lighten, and finally a phone flashlight beneath the camera lens to dissolve the shadow.</p><br>
+            <p class="card-body">One of the problem with lighting was that it was too strong and the was a hard shadow created at the back. I had to use folds of tissue paper to soften the main lamp and phone flashlight. Another pain point was locating the limes in a frame as it was not tested during the test shoot due to limited quantity. I had to be creative and flexible in adapting to the challenge. Staring at the limes for a few minutes, I remembered Daniel Schiffer's <a href="https://www.youtube.com/watch?v=j9E3MlnHjOQ&t=287s&ab_channel=DanielSchiffer" title="Inspiration Video from Daniel Schiffer">video</a>. He used a method of a toothpick as a stand and used it to solve my problem. After the photoshoot was finished, Lightroom was used to adjust minor lighting and contrast. Images were edited with stamp tools, masked separately into different layers, and composed into one final product.</p><br>
+            <p class="card-body">The composition editing was done in Photoshop where I first selected the best images from the photoshoo. Then I adjusted the color and the brightness of limes so it matches with one another. The limes were masked out with a pen tool to be placed into the bottle composition. By the advise of the instructor, the sizes of limes were randomly put and blur was applied to give the sense of motion. </p>
+        </div>
+    </div>
+</section>

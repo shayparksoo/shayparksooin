@@ -1,0 +1,71 @@
+/* -------------- // heading //  --------------*/
+h1 {
+    font-family: 'Bodoni Moda', serif;
+    font-size: 3.25rem;
+}
+
+h2 {
+    font-size: 2.4rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+    padding-bottom: 8px;
+}
+
+h4 {
+    font-size: 1.25rem;
+    color: #3E492E;
+}
+
+* {
+    line-height: 1.5;
+}
+
+/* -------------- // Type //  --------------*/
+.caption {
+    font-style: italic;
+    justify-content: center;
+    padding-top: 1.5rem;
+}
+
+.subtitle {
+    font-size: 1.125rem;
+    color: #424242;
+}
+
+.card-h3 {
+    padding-bottom: 0;
+}
+
+.card-category {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #646464;
+}
+
+.card-body {
+    font-size: 1.1rem;
+    font-weight: 300;
+    color: #646464;
+}
+
+.sec-body-sm {
+    font-size: 1.1rem;
+    color: #000;
+    line-height: 1.4rem;
+    font-weight: 300;
+}
+
+.sec-body-md {
+    font-size: 1.25rem;
+    color: #000;
+    line-height: 1.3rem;
+    text-transform: uppercase;
+}
+
+.button-txt {
+    font-size: .875rem;
+    font-weight: 500;
+}
+

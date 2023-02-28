@@ -1,0 +1,71 @@
+/* -------------- // home-hero //  --------------*/
+.home-hero__name {
+    margin: auto 0;   
+}
+
+.home-hero__logo {
+    justify-content: flex-end;
+}
+
+/* -------------- // home-about //  --------------*/
+.home-about__title-cont {
+    position: relative;
+    height: 120px;
+    width: 100%;
+    border-right: 1px solid #000;
+}
+
+.home-about__title {
+    text-transform: uppercase;
+    text-align: right;
+    position: absolute;
+    bottom: 1.5rem;
+    right: 3.25rem;
+}
+
+.home-about__body-cont {
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* -------------- // home-contact //  --------------*/
+.home-contact__title-cont {
+    position: relative;
+    height: 120px;
+    width: 100%;
+    order: 3;
+}
+
+.home-contact__title {
+    text-transform: uppercase;
+    text-align: right;
+    position: absolute;
+    bottom: 1.5rem;
+    left: 3.25rem;
+}
+
+.home-contact__body-cont {
+    flex-direction: column;
+    justify-content: center;
+    text-align: right;
+}
+
+.home-contact__icon {
+    flex-direction: column;
+    align-self: end;
+    padding: 0.7rem 0;
+    color: #646464;
+}
+
+.home-contact__logo img{
+    width: 3rem;
+    max-width: 100%;
+}
+    
+.home-contact__icon ul{
+    flex-direction: row;
+    display: flex;
+    gap: var(--column-gap);
+}
+    
+    
