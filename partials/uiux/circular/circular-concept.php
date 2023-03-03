@@ -2,7 +2,8 @@
     <div class="grid no-gap">
         <div class="sctn-box__title-cont col col-12-sm col-12-md col-6 artifact-concept__title flex">
             <h3>Concept & Ideas</h3>
-            <p class="card-body padding-49-r">The concept of the website was to be minimal and professionally built. This was to break the stereotype of sustainable material products which referred to low-quality or unaesthetic products. I thought of existing brands like Oak and Fort and Artizia which people would consider as a good quality-built products. As for sustainable products, I researched into Nike and Everlane as they offer products made sustainable material. This helped to me to understand why brands would be engage in eco-friendly environment and how they present to customers.</p>
+            <p class="card-body padding-49-r p-break">The concept of the website was to be minimal and professionally built. This was to break the stereotype of sustainable material products which referred to low-quality or unaesthetic products.</p>
+            <p class="card-body padding-49-r p-break">I thought of existing brands like Oak and Fort and Artizia which people would consider as a good quality-built products. For sustainable products, I researched into Nike and Everlane about their approach and process of having a sustainable material product. Researching these brands helped to me to understand how brands would engage in eco-friendly environment and their presentation to customers.</p>
         </div>
         <div class="sctn-box__body-cont col col-12-sm col-4-md col-2">
             <a href="../img/circular-ref1.png" data-lightbox="ref-img">
