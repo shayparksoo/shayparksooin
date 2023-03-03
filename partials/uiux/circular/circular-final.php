@@ -23,5 +23,5 @@
     <iframe class="col-12 figma-center" style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1000" height="650" src="https://xd.adobe.com/embed/84465405-bc7e-4bf7-844b-1fbd48829b16-d115/" frameborder="0" allowfullscreen></iframe>
 </section>
 <section class="return border-t flex jc-center">
-    <a href="<?php echo WWW_ROOT . '/uiux.php';?>"><button class="btn btn-outline button-txt col col-12">More Projects</button></a>
+    <a href="<?php echo WWW_ROOT . '/uiux.php';?>"><button class="btn btn-fill button-txt col col-12">More Projects</button></a>
 </section>

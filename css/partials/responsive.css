@@ -504,7 +504,7 @@
     }
 
     .home-about__title-cont {
-        height: 264px;
+        height: 272px;
     }
 
     .home-contact__title-cont {
@@ -512,12 +512,12 @@
     }
 
     .home-right {
-        top: 70%;
+        top: 76%;
         left: -8%;
     }
 
     .home-left {
-        top: 70%;
+        top: 76%;
         right: -8%;
     }
     
