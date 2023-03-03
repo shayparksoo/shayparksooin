@@ -10,7 +10,7 @@ h2 {
 
 h3 {
     font-size: 1.5rem;
-    padding-bottom: 8px;
+    padding-bottom: 1.2rem;
 }
 
 h4 {
@@ -18,9 +18,6 @@ h4 {
     color: #3E492E;
 }
 
-* {
-    line-height: 1.5;
-}
 
 /* -------------- // Type //  --------------*/
 .caption {
@@ -32,35 +29,40 @@ h4 {
 .subtitle {
     font-size: 1.125rem;
     color: #424242;
+    padding-top: 1.8rem;
 }
 
 .card-h3 {
-    padding-bottom: 0;
+    padding-bottom: 8px;
+    line-height: 1.6rem;
 }
 
 .card-category {
     font-size: 1.2rem;
     font-weight: 500;
+    padding-bottom: 1.4rem;
     color: #646464;
 }
 
 .card-body {
     font-size: 1.1rem;
     font-weight: 300;
+    line-height: 1.6rem;
     color: #646464;
 }
 
 .sec-body-sm {
     font-size: 1.1rem;
     color: #000;
-    line-height: 1.4rem;
+    line-height: 1.6rem;
     font-weight: 300;
 }
 
 .sec-body-md {
     font-size: 1.25rem;
     color: #000;
-    line-height: 1.3rem;
+    line-height: 12px;
+    padding-bottom: 1.2rem;
     text-transform: uppercase;
 }
 
@@ -69,3 +71,6 @@ h4 {
     font-weight: 500;
 }
 
+/* * {
+    line-height: 1.7rem;
+} */

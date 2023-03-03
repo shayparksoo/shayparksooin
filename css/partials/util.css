@@ -1,6 +1,10 @@
 /*  -------------- // Helper Class // -------------- */
+.h3-break {
+    padding-top: 1.4rem;
+}
+
 .p-break {
-    margin: 6px 0;
+    padding-top: 1.2rem;
 }
 
 .icon-gap {
@@ -40,6 +44,12 @@
 .align-ul {
     align-items: center;
     justify-content: center;
+}
+
+.figma-center {
+    margin: 0 auto 40px;
+    display: block;
+    max-width: 100%;
 }
 
 /*  -------------- // UTIL  // -------------- */
@@ -182,13 +192,13 @@
 .home-left {
     position: relative;
     margin: 0 auto;
-    top: 28%;
+    top: 41%;
 }
 
 .home-right {
     position: relative;
     margin: 0 auto;
-    top: 28%;
+    top: 41%;
 }
 
 

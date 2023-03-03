@@ -33,8 +33,6 @@
         padding: 12px 18px;
     }
 
-    
-
     .circular-wire-container {
         height: 700px;
     }
@@ -172,11 +170,7 @@
     .artifact__specs,.artifact__title,.artifact-concept__title, .enlarge-img-3,.circular-ux__title, .enlarge-img-2 {
         border-right: 1px solid #000;
     }
-
-
-    
 }
-
 
 
 /* -------------- // ******** 768px ******* // --------------*/
@@ -289,11 +283,11 @@
     }
 
     .home-about__title-cont {
-        height: 285px;
+        height: 303px;
     }
 
     .home-contact__title-cont {
-        height: 266px;
+        height: 303px;
     }
 
     .home-right {
@@ -400,7 +394,7 @@
     .sctn-box__title-cont.artifact-final__title {
         padding: 40px 0;
     }
-    
+
     .enlarge-img-2 {
         max-width: 310px;
     }
@@ -514,7 +508,7 @@
     }
 
     .home-contact__title-cont {
-        height: 227px;
+        height: 260px;
     }
 
     .home-right {
@@ -542,7 +536,7 @@
 
     .profile {
         width: 600px;
-        height: 480px;
+        height: 400px;
     }
 
   
@@ -567,7 +561,8 @@
 
     /*-------------- // ARTIFACT //  --------------*/
     .enlarge-img-2 {
-        max-width: 329px;
+        max-width: 330px;
+        border-right: 1px solid #000;
     }
     
     .enlarge-img-3 {
@@ -649,8 +644,6 @@
         font-size: 1.125rem;
     }
 
-
-
     /* -------------- // HELPER CLASS //  --------------*/
 
     .sec-body-sm  {
@@ -697,7 +690,7 @@
     }
 
     .home-about__title-cont, .home-contact__title-cont {
-        height: 260px;
+        height: 263px;
     }
 
     .home-right {

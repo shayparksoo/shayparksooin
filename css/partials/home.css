@@ -53,8 +53,9 @@
 .home-contact__icon {
     flex-direction: column;
     align-self: end;
-    padding: 0.7rem 0;
+    padding: 1.6rem 0 0.7rem;
     color: #646464;
+
 }
 
 .home-contact__logo img{
