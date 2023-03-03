@@ -88,25 +88,26 @@
 
 /*  -------------- // Button // -------------- */
 .btn {
-    /* padding: 9px 20px; */
     text-transform: uppercase;
-    width: 121px;
-    height: 38px;
+    width: 126px;
+    height: 42px;
     text-align: center;
+}
+
+.btn-card-top {
+    margin-top: 24px;
 }
 
 .btn-fill {
     color: white;
     background-color: var(--primary);
     border: 1px solid #000;
-    margin-top: 30px;
 }
 
 .btn-fill:hover {
     color: black;
     background-color: white;
     border: 1px solid #000;
-    margin-top: 30px;
     transition: 0.2s;
 }
 
@@ -114,14 +115,12 @@
     color:#3E492E;
     background-color: white;
     border: 1px solid #3E492E;
-    margin-top: 24px;
 }
 
 .btn-outline:hover {
     color: white;
     background-color: #3E492E;
     border: 1px solid white;
-    margin-top: 24px;
     transition: 0.2s;
 }
 
@@ -133,7 +132,6 @@
 /*  -------------- // Work Cards // -------------- */
 .work__cont {
     flex-direction: column;
-    /* border-bottom: 1px solid #000; */
 }
 
 .work__cont.grid {
