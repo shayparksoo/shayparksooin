@@ -2,7 +2,7 @@
     <div class="grid">
         <div class="sctn-box__title-cont col col-12-sm col-6-md col-6 circular-ux__title tb-l">
             <h3>User Research</h3>
-            <p class="card-body">The main users are waitresses and waiters of the restaurant as they receive, input, and organize  orders. The users’ age varies between 16 to late 50s. From this, I thought the design needs to be learnable at every age by using simplicity, consistency, and clarity.</p>
+            <p class="card-body">The main users are waitresses and waiters of the restaurant as they receive, input, and organize  orders. The users’ age varies between 16 to late 50s. From this, I concluded that the design needs to be learnable at every age by using simplicity, consistency, and clarity.</p>
         </div>
         <div class="sctn-box__title-cont col col-12-sm col-6-md col-6 circular-ux__title design-cont padding-49-l">
             <h3>Design System</h3>
