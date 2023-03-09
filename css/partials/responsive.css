@@ -148,11 +148,11 @@
 
      /*-------------- // ARTIFACT //  --------------*/
      .enlarge-img-2,.enlarge-img-3 {
-        max-width: 287px;
+        max-width: 267px;
     }
 
     .circular-wire-container {
-        height: 456px;
+        height: 427px;
     }
 
     .circular-ref-1 {
@@ -429,7 +429,10 @@
 
     .artifact__title,.enlarge-img-3,.enlarge-img-2,.circular-wireframe__title {
         border-right: unset;
+    }
 
+    .circular-ref-img3:last-child {
+        border-right: 1px solid #000;
     }
 
     .circular-ux__title {
@@ -585,7 +588,7 @@
 
 }
 
-/* -------------- // ******** 2000px ******* // --------------*/
+/* -------------- // ******** 2560px ******* // --------------*/
 @media screen and (min-width: 2000px) { 
     .col-1-xl { grid-column: span 1; }
     .col-2-xl { grid-column: span 2; }
@@ -701,6 +704,10 @@
     .home-left {
         top: 64%;
         right: -7%;
+    }
+
+    .about-bio-txt {
+        padding: 0px 431px 0px 40px;
     }
 
     /* -------------- // Artifacts //  --------------*/
