@@ -13,22 +13,20 @@
 }
 
 .gn-container img {
-    width: 4rem;
+    width: 3.2rem;
     max-width: 100%;
 }
 
 .gn-container ul{
     column-gap: var(--column-gap);
-}
-
-.gn-email {
-    display: none;
+    align-items: center;
 }
 
 .gn li a {
     color: #000;
     position: relative;
     text-transform: uppercase;
+    font-weight: 500;
 }
 
 .gn li a::before {

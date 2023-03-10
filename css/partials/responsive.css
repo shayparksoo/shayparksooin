@@ -618,6 +618,10 @@
         font-size: 1.65rem;
     }
 
+    h5 {
+        font-size: 1.55rem;
+    }
+
     .caption {
         font-size: 1.2rem;
     }
@@ -713,13 +717,20 @@
         padding: 40px;
     }
 
-
     .sctn-box__title-cont.artifact-final__title {
         padding: 60px 0 20px;
     }
 
     .artifact-brainstorm__title {
         padding: 60px 34px;
+    }
+
+    .sctn-box__title-cont {
+        padding: 47px 84px;
+    }
+
+    .enlarge-img-2 {
+        border-right: unset;
     }
 
 
