@@ -2,7 +2,7 @@
     <div class="grid no-gap">
         <div class="sctn-box__title-cont col col-12-sm col-12-md col-6 circular-wireframe__title tb-r">
             <h3>Data Analysis & Possible Improvement</h3>
-            <p class="card-body padding-49-r">After the data of user testing, while other 3 members analyzed the data using System Usability Scale and Assess Questionnaire, myself and one other member established a new design according to the result of the testing.</p>
+            <p class="card-body padding-49-r">After the data of user testing, 3 members analyzed the data using Rainbow Spreadsheet, System Usability Scale, and Assess Questionnaire. Myself and one other member established a new design according to the result of the testing.</p>
             <h5 class="h5-break">Key Takeaways</h5>
             <p class="card-body padding-49-r">
                 <ol type="1">
@@ -22,14 +22,19 @@
             <p class="card-body padding-49-r p-break">From the user testing, we realized that the website needs to have a clear layout that users can search and explore. This was done through condensing contexts, giving a hierarchy in typography and color, and organizing the layout into related categories. </p>
             <p class="card-body padding-49-r p-break">We recommended a design that users will find easability and understanding to navigate the website.</p>
         </div>
-        <div class="sctn-box__body-cont col col-12-sm col-6-md col-3 flex circular-wire-container">
-            <a href="../img/circular-lofi1.png" data-lightbox="lofi-img">
-                <img src="../img/circular-lofi1.png" class="enlarge-img-2 wire-res-1 circular-wire-1" alt="Circular Lo-fi Wireframe by Shay Park" width="437" height="670">
+        <div class="sctn-box__body-cont col col-12-sm col-4-md col-2">
+            <a href="../img/vrra-test-1.png" data-lightbox="ref-img">
+                <img src="../img/vrra-test-1.png" class="enlarge-img-3 circular-ref-1" alt="Circular Reference Image: Everlane" width="294" height="595">
             </a>
         </div>
-        <div class="sctn-box__body-cont col col-12-sm col-6-md col-3 flex circular-wire-container">
-            <a href="../img/circular-lofi1.png" data-lightbox="lofi-img">
-                <img src="../img/circular-lofi1.png" class="enlarge-img-2 wire-res-1 circular-wire-1" alt="Circular Lo-fi Wireframe by Shay Park" width="437" height="670">
+        <div class="sctn-box__body-cont col col-12-sm col-4-md col-2">
+            <a href="../img/vrra-test-2.png" data-lightbox="ref-img">
+                <img src="../img/vrra-test-2.png" class="enlarge-img-3 circular-ref-2" alt="Circular Reference Image: Everlane" width="294" height="595">
+            </a>
+        </div>
+        <div class="sctn-box__body-cont col col-12-sm col-4-md col-2">
+            <a href="../img/vrra-test-3.png" data-lightbox="ref-img">
+                <img src="../img/vrra-test-3.png" class="enlarge-img-3 circular-ref-img3" alt="Circular Reference Image: Oak & Fort" width="294" height="595">
             </a>
         </div>
     </div>

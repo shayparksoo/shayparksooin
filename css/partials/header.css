@@ -12,8 +12,13 @@
     padding-right: 10px
 }
 
-.gn-container img {
+.gn__logo {
     width: 3.2rem;
+    max-width: 100%;
+}
+
+.gn-email {
+    width: 2.3rem;
     max-width: 100%;
 }
 
@@ -29,7 +34,7 @@
     font-weight: 500;
 }
 
-.gn li a::before {
+.gn li a.hover-line::before {
     content: "";
     background-color: var(--primary);
     transition: 0.2s ease-out;
@@ -40,7 +45,7 @@
     bottom: -3px;
   }
   
-.gn li a:hover::before {
+.gn li a.hover-line:hover::before {
     width: 100%;
   }
   
