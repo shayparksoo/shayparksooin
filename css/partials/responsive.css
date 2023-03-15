@@ -35,6 +35,7 @@
 
     .circular-wire-container {
         height: 700px;
+        overflow: hidden;
     }
 
     .work__ind-card {
@@ -60,7 +61,6 @@
     .work__ind-card.work_onetap:nth-child(2) {
         border-bottom: 0;
     }
-
 
     .home-hero__name {
         padding-bottom: 49px;
@@ -124,7 +124,6 @@
         border-top: 1px solid #000;
     }
 
-
     .about-sns-content {
         order: 2;
         border-left: 1px solid #000;
@@ -147,12 +146,16 @@
     }
 
      /*-------------- // ARTIFACT //  --------------*/
-     .enlarge-img-2,.enlarge-img-3 {
-        /* max-width: 287px; */
+    .preview-img {
+        width: 100%;
     }
 
     .circular-wire-container {
+<<<<<<< Updated upstream
         height: 456px;
+=======
+        height: 646px;
+>>>>>>> Stashed changes
     }
 
     .circular-ref-1 {
@@ -167,7 +170,7 @@
         border-left: 1px solid #000;
     }
 
-    .artifact__specs,.artifact__title,.artifact-concept__title, .enlarge-img-3,.circular-ux__title{
+    .artifact__specs,.artifact__title,.artifact-concept__title, .enlarge-img-3, .circular-wire-container, .circular-ux__title{
         border-right: 1px solid #000;
     }
 }
@@ -395,12 +398,8 @@
         padding: 40px 0;
     }
 
-    .enlarge-img-2 {
-        /* max-width: 310px; */
-    }
-
-    .enlarge-img-3 {
-        /* max-width: 207px; */
+    .preview-img {
+        width: 75%;
     }
 
     .circular-wire-container {
@@ -427,7 +426,7 @@
         border-bottom: unset;
     }
 
-    .artifact__title,.enlarge-img-3,.enlarge-img-2,.circular-wireframe__title {
+    .artifact__title,.enlarge-img-3,.circular-wire-container:first-child,.circular-wireframe__title {
         border-right: unset;
 
     }
@@ -444,6 +443,9 @@
         border-left: 1px solid #000;
     }
 
+    .circular-ref-img3 {
+        width: 100%
+    }
 
 }
 
@@ -559,6 +561,7 @@
         border-right: 1px solid #000;
     }
 
+
     /*-------------- // ARTIFACT //  --------------*/
     .enlarge-img-2 {
         /* max-width: 322px; */
@@ -570,8 +573,16 @@
         object-fit: fill;
     }
 
+    .preview-img {
+        width: 80%;
+    }
+
     .circular-wire-container {
-        height: 527px;
+        height: 596px;
+    }
+
+    .circular-wire-container:last-child {
+        border-left: unset;
     }
 
     .circular-wireframe__title,.artifact-concept__title {
@@ -646,6 +657,10 @@
 
     .button-txt {
         font-size: 1.125rem;
+    }
+
+    .grid {
+        padding: 0 400px;
     }
 
     /* -------------- // HELPER CLASS //  --------------*/

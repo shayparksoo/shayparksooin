@@ -1,4 +1,4 @@
-/* -------------- // Circular Purpose Section // --------------*/
+/* -------------- //  Purpose Section // --------------*/
 .artifact__title {
     justify-content: center;
     flex-direction: column;
@@ -18,19 +18,26 @@
     margin: 1.4rem 0;
 }
 
-/* -------------- // Circular Brainstorming Section // --------------*/
+
+/* -------------- //  Artifact Preview Section  // --------------*/
+.preview-img {
+    margin: 0 auto;
+    display: block
+}
+
+/* -------------- //  Brainstorming Section // --------------*/
 .artifact-brainstorm__title {
     justify-content: center;
     flex-direction: column;
 }
 
-/* -------------- // Circular Concept Section // --------------*/
+/* -------------- //  Concept Section // --------------*/
 .artifact-concept__title {
     justify-content: center;
     flex-direction: column;
 }
 
-/* -------------- // Circular Final Section // --------------*/
+/* -------------- //  Final Section // --------------*/
 .artifact-final .btn {
     width: 206px;
     height: 54px;
@@ -47,7 +54,5 @@
 .artifact-bottom {
     margin: 0 0 100px;
 }
-
-
 
 
