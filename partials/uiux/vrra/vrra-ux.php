@@ -1,9 +1,17 @@
+<section class="artifact-brainstorm bg-color-3 border-b">
+    <div class="grid">
+        <div class="sctn-box__title-cont col col-12 artifact-brainstorm__title flex">
+            <h3>Data Analysis & Possible Improvement</h3>
+            <p class="card-body padding-49-r">After the data of user testing, 3 members analyzed the data using Rainbow Spreadsheet, System Usability Scale, and Assess Questionnaire. Myself and one other member established a new design according to the result of the testing.</p>
+        </div>
+    </div>
+</section>
+
 <section class="circular-wireframe border-b">
     <div class="grid no-gap">
         <div class="sctn-box__title-cont col col-12-sm col-12-md col-6 circular-wireframe__title tb-r">
-            <h3>Data Analysis & Possible Improvement</h3>
-            <p class="card-body padding-49-r">After the data of user testing, 3 members analyzed the data using Rainbow Spreadsheet, System Usability Scale, and Assess Questionnaire. Myself and one other member established a new design according to the result of the testing.</p>
-            <h5 class="h5-break">Key Takeaways</h5>
+            
+            <h5>Key Takeaways</h5>
             <p class="card-body padding-49-r">
                 <ol type="1">
                     <li>Problems with navigating through UI and adoption process</li>

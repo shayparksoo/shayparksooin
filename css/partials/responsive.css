@@ -148,7 +148,7 @@
 
      /*-------------- // ARTIFACT //  --------------*/
      .enlarge-img-2,.enlarge-img-3 {
-        max-width: 287px;
+        /* max-width: 287px; */
     }
 
     .circular-wire-container {
@@ -167,7 +167,7 @@
         border-left: 1px solid #000;
     }
 
-    .artifact__specs,.artifact__title,.artifact-concept__title, .enlarge-img-3,.circular-ux__title, .enlarge-img-2 {
+    .artifact__specs,.artifact__title,.artifact-concept__title, .enlarge-img-3,.circular-ux__title{
         border-right: 1px solid #000;
     }
 }
@@ -396,11 +396,11 @@
     }
 
     .enlarge-img-2 {
-        max-width: 310px;
+        /* max-width: 310px; */
     }
 
     .enlarge-img-3 {
-        max-width: 207px;
+        /* max-width: 207px; */
     }
 
     .circular-wire-container {
@@ -561,12 +561,12 @@
 
     /*-------------- // ARTIFACT //  --------------*/
     .enlarge-img-2 {
-        max-width: 322px;
+        /* max-width: 322px; */
         border-right: unset;
     }
     
     .enlarge-img-3 {
-        max-width: 343px;
+        /* max-width: 343px; */
         object-fit: fill;
     }
 

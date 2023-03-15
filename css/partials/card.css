@@ -15,13 +15,13 @@
 
 .enlarge-img-3 {
     height: 100%;
-    max-width: 294px;
+    /* max-width: 294px; */
     object-fit: cover;
 }
 
 .enlarge-img-2 {
     height: 100%;
-    max-width: 437px;
+    /* max-width: 437px; */
     object-fit: cover;
 }
 
@@ -73,7 +73,7 @@
 
 /* -------------- // Card Image - Kart Rider // --------------*/
 .card-img__vrra {
-    background-image: url(../../img/kart-rider-card.png);
+    background-image: url(../../img/vrra-card.png);
     transition: all .5s ease;
 }
 
