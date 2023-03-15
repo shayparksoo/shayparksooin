@@ -15,13 +15,13 @@
 
 .enlarge-img-3 {
     height: 100%;
-    /* max-width: 294px; */
+    max-width: 294px;
     object-fit: cover;
 }
 
 .enlarge-img-2 {
     height: 100%;
-    /* max-width: 437px; */
+    max-width: 437px;
     object-fit: cover;
 }
 
@@ -72,24 +72,24 @@
 }
 
 /* -------------- // Card Image - Kart Rider // --------------*/
-.card-img__vrra {
-    background-image: url(../../img/vrra-card.png);
+.card-img__kart {
+    background-image: url(../../img/kart-rider-card.png);
     transition: all .5s ease;
 }
 
-.card-img__vrra:hover {
+.card-img__kart:hover {
     transform: scale(1.1);
 }
 
-.card-img__vrra-ref1 {
+.card-img__kart-ref1 {
     background-image: url(../../img/kart-ref1.png);
 }
 
-.card-img__vrra-ref2 {
+.card-img__kart-ref2 {
     background-image: url(../../img/kart-ref2.png);
 }
 
-.card-img__vrra-ref3 {
+.card-img__kart-ref3 {
     background-image: url(../../img/kart-ref3.png);
 }
 

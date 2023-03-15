@@ -11,17 +11,6 @@
                 <a href="<?php echo WWW_ROOT . '/uiux-circular.php';?>"><button class="btn btn-card-top btn-outline button-txt">View Project</button></a>
             </div>
         </div>
-        <div class="work__ind-card col col-12-sm col-6-md col-4">
-            <div class="card-img">
-                <a href="<?php echo WWW_ROOT . '/uiux-vrra.php';?>"><div class="card-img__vrra card-img border-b" title="VRRA UI UX by Shay Park"></div></a>
-            </div>
-            <div class="card-content">
-                <h3 class="card-h3">VRRA - UI/UX</h3>
-                <p class="card-category">UI/UX Design</p>
-                <p class="card-body">The project included plannning, executing, and analyzing the user experience of a website, along with a prototype that reflected the result.</p>
-                <a href="<?php echo WWW_ROOT . '/uiux-vrra.php';?>"><button class="btn btn-card-top btn-outline button-txt">View Project</button></a>
-            </div>
-        </div>
         <div class="work__ind-card col col-12-sm col-6-md col-4 work_onetap last-card">
             <div class="card-img">
                 <a href="<?php echo WWW_ROOT . '/uiux-onetap.php';?>"><div class="card-img__onetap card-img border-b" title="One Tap UI UX by Shay Park"></div></a>

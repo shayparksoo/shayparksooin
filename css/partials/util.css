@@ -1,5 +1,5 @@
 /*  -------------- // Helper Class // -------------- */
-.h3-break, .h5-break {
+.h3-break {
     padding-top: 1.4rem;
 }
 
@@ -50,19 +50,6 @@
     margin: 0 auto 40px;
     display: block;
     max-width: 100%;
-}
-
-ol {
-    list-style: auto;
-    padding-top: 12px;
-}
-
-li {
-    font-size: 1.1rem;
-    font-weight: 300;
-    line-height: 1.6rem;
-    color: #646464;
-    margin-left: 20px;
 }
 
 /*  -------------- // UTIL  // -------------- */

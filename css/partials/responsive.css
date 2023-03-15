@@ -148,7 +148,7 @@
 
      /*-------------- // ARTIFACT //  --------------*/
      .enlarge-img-2,.enlarge-img-3 {
-        /* max-width: 287px; */
+        max-width: 267px;
     }
 
     .circular-wire-container {
@@ -167,7 +167,7 @@
         border-left: 1px solid #000;
     }
 
-    .artifact__specs,.artifact__title,.artifact-concept__title, .enlarge-img-3,.circular-ux__title{
+    .artifact__specs,.artifact__title,.artifact-concept__title, .enlarge-img-3,.circular-ux__title, .enlarge-img-2 {
         border-right: 1px solid #000;
     }
 }
@@ -210,7 +210,7 @@
 
     .gn-container ul{
         font-size: 1rem;
-        column-gap: .7rem;
+        column-gap: 1.2rem;
     }
     
     .footer {
@@ -396,11 +396,11 @@
     }
 
     .enlarge-img-2 {
-        /* max-width: 310px; */
+        max-width: 310px;
     }
 
     .enlarge-img-3 {
-        /* max-width: 207px; */
+        max-width: 207px;
     }
 
     .circular-wire-container {
@@ -472,7 +472,7 @@
 
     .gn-container ul{
         font-size: 1rem;
-        column-gap: 1rem;
+        column-gap: 1.2rem;
     }
     
     .footer {
@@ -564,12 +564,12 @@
 
     /*-------------- // ARTIFACT //  --------------*/
     .enlarge-img-2 {
-        /* max-width: 322px; */
-        border-right: unset;
+        max-width: 330px;
+        border-right: 1px solid #000;
     }
     
     .enlarge-img-3 {
-        /* max-width: 343px; */
+        max-width: 343px;
         object-fit: fill;
     }
 
@@ -619,10 +619,6 @@
 
     h4 {
         font-size: 1.65rem;
-    }
-
-    h5 {
-        font-size: 1.55rem;
     }
 
     .caption {
@@ -724,20 +720,13 @@
         padding: 40px;
     }
 
+
     .sctn-box__title-cont.artifact-final__title {
         padding: 60px 0 20px;
     }
 
     .artifact-brainstorm__title {
         padding: 60px 34px;
-    }
-
-    .sctn-box__title-cont {
-        padding: 47px 84px;
-    }
-
-    .enlarge-img-2 {
-        border-right: unset;
     }
 
 
