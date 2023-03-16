@@ -6,15 +6,15 @@
         </div>
         <div class="artifact__specs col col-12-sm col-6-md col-6 flex border-l">
             <div class="artifact-specs__ind-text">
-                <h3>Date</h3>
+                <h3 class="h3-artifact-gen">Date</h3>
                 <p class="card-body">September 17, 2022 - October 13, 2022</p>
             </div>
             <div class="artifact-specs__ind-text">
-                <h3>Role</h3>
+                <h3 class="h3-artifact-gen">Role</h3>
                 <p class="card-body">UI/UX Designer</p>
             </div>
             <div class="artifact-specs__ind-text">
-                <h3>Software</h3>
+                <h3 class="h3-artifact-gen">Software</h3>
                 <p class="card-body">Figma </p>
             </div>
         </div>
