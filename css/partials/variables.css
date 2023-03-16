@@ -3,8 +3,7 @@
 :root {
     --column-gap: 0.7rem;
     --column-no-gap: 0;
-    /* --primary: #3E492E; */
-    --primary: #ff0000;
+    --primary: #3E492E;
     --secondary: #DB8134;
     --tertiary: #CBCDC0;
     --icon: #696969;
