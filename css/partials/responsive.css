@@ -62,6 +62,12 @@
         border-bottom: 0;
     }
 
+    .col-2-lastcard {
+        border-top: 1px solid #000;
+    }
+
+    /*-------------- // 300 HOME //  --------------*/
+
     .home-hero__name {
         padding-bottom: 49px;
         text-align: center;
@@ -76,7 +82,6 @@
         height: 160px;
     }
 
-    /*-------------- // HOME ABOUT //  --------------*/
     .home-about {
         border-right: 1px solid #000;
         border-left: 1px solid #000;
@@ -86,14 +91,11 @@
     .home-about__title-cont {
         border-bottom: 1px solid #000;
     }
-
-    /*-------------- // HOME PORTFOLIO WORK //  --------------*/
     
     .home-card:first-child {
         border-right: 1px solid #000;
     }
 
-    /*-------------- // HOME CONTACT //  --------------*/
     .home-contact__title-cont {
         order:-1;
         border-bottom: 1px solid #000;
@@ -104,7 +106,7 @@
         border-right: 1px solid #000;
     }
 
-    /*-------------- // ABOUT Page //  --------------*/
+    /*-------------- // 300 ABOUT Page //  --------------*/
     .about-skill-content {
         order: 2;
         border-left: 1px solid #000;
@@ -145,21 +147,23 @@
         border-bottom: 1px solid #000;
     }
 
-     /*-------------- // ARTIFACT //  --------------*/
+    /*-------------- // 300 UX PAGE  //  --------------*/
+
+    .header-txt-color{
+        color: #fff;
+    }
+
+     /*-------------- // 300 ARTIFACT //  --------------*/
     .preview-img {
         width: 100%;
     }
 
+    .enlarge-img-3 {
+        width: 99.7%;
+    }
+
     .circular-wire-container {
         height: 646px;
-    }
-
-    .circular-ref-1 {
-        border-bottom: 1px solid #000;
-    }
-
-    .circular-ref-1,.circular-wire-1 {
-        border-top: 1px solid #000;
     }
 
     .artifact__title,.artifact-concept__title,.circular-ux__title {
@@ -168,6 +172,14 @@
 
     .artifact__specs,.artifact__title,.artifact-concept__title, .enlarge-img-3, .circular-wire-container, .circular-ux__title{
         border-right: 1px solid #000;
+    }
+
+    .col-3-sec-img,.col-2-last-img {
+        border-top: 1px solid #000;
+    }
+
+    .artifact-concept__title,.col-3-sec-img {
+        border-bottom: 1px solid #000;
     }
 }
 
@@ -231,10 +243,10 @@
     }
 
     .sctn-box__title-cont {
-        padding: 40px 34px;
+        padding: 40px 34px 46px;
     }
 
-    /*-------------- // HEADER //  --------------*/
+    /*-------------- // 768 HEADER //  --------------*/
     .about-header__cont {
         background-color: #fff;
     }
@@ -251,7 +263,7 @@
         background-color: #fff;
     }
 
-    /*-------------- // HOME HERO //  --------------*/
+    /*-------------- // 768 HOME //  --------------*/
     .home-hero__logo {
         justify-content: flex-end;
         height: 240px;
@@ -319,7 +331,7 @@
         border-left: unset;
     }
 
-    /*-------------- // ABOUT Page //  --------------*/
+    /*-------------- // 768 ABOUT Page //  --------------*/
     .abt-left {
         margin: unset;
         left: 8%;
@@ -390,9 +402,24 @@
         padding-right: 0;
     }
 
-    /*-------------- // ARTIFACTS //  --------------*/
+    /*-------------- // 768 UX PAGE  //  --------------*/
+
+    .header-txt-color{
+        color: var(--primary);
+    }
+
+
+    /*-------------- // 768 ARTIFACTS //  --------------*/
+    .enlarge-img-3 {
+        width: 100%;
+    }
+    
     .sctn-box__title-cont.artifact-final__title {
         padding: 40px 0;
+    }
+
+    .artifact__specs {
+        padding: 40px 34px 46px;
     }
 
     .preview-img {
@@ -407,7 +434,7 @@
         border-bottom: 1px solid #000;
     }
 
-    .circular-ref-1,.circular-wire-1 {
+    .circular-ref-1, {
         border-top: 0px solid #000;
     }
 
@@ -419,9 +446,14 @@
         border-bottom: 1px solid #000;
     }
 
-    .circular-ref-1 {
+    .circular-ref-1,.col-3-sec-img {
         border-bottom: unset;
     }
+
+    .col-3-sec-img {
+        border-top: unset;
+    }
+
 
     .artifact__title,.enlarge-img-3,.circular-wire-container:first-child,.circular-wireframe__title {
         border-right: unset;
@@ -442,6 +474,10 @@
 
     .circular-ref-img3 {
         width: 100%
+    }
+
+    .col-3-last-img {
+        border-right: solid 1px #000;
     }
 
 }
@@ -487,7 +523,7 @@
         order: 0;
     }
 
-    /*-------------- // UTIL //  --------------*/
+    /*-------------- // 1024 UTIL //  --------------*/
 
     .header-right {
         top: 68%;
@@ -498,12 +534,12 @@
         height: 190px;
     }
 
-    .artifact__specs {
+    /* .artifact__specs {
         padding-left: 34px;
-    }
+    } */
     
 
-    /*-------------- // HOME PORTFOLIO WORK //  --------------*/
+    /*-------------- // 1024 HOME //  --------------*/
     .home-hero__logo {
         justify-content: center;
         height: 240px;
@@ -546,7 +582,7 @@
     }
 
   
-    /*-------------- // ABOUT PAGE //  --------------*/
+    /*-------------- // 1024 ABOUT PAGE //  --------------*/
     .abt-left {
         left: 7%;
         top: 76%;
@@ -566,7 +602,7 @@
     }
 
 
-    /*-------------- // ARTIFACT //  --------------*/
+    /*-------------- // 1024 ARTIFACT //  --------------*/
     .enlarge-img-2 {
         /* max-width: 322px; */
         border-right: unset;
@@ -593,7 +629,7 @@
         border-right: unset;
     }
 
-    .enlarge-img-3:last-child {
+    .col-3-last-img {
         border-right: 1px solid #000;
     }
 
@@ -744,10 +780,6 @@
         padding-top: 70px;
     }
 
-    .artifact__specs {
-        padding: 40px;
-    }
-
     .sctn-box__title-cont.artifact-final__title {
         padding: 60px 0 20px;
     }
@@ -756,8 +788,8 @@
         padding: 60px 34px;
     }
 
-    .sctn-box__title-cont {
-        padding: 47px 84px;
+    .sctn-box__title-cont,.artifact__specs {
+        padding: 47px 84px 52px;
     }
 
     .enlarge-img-2 {

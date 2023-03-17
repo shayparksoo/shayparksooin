@@ -14,7 +14,7 @@
         </div>
         <div class="sctn-box__body-cont col col-12-sm col-6-md col-3 flex border-r circular-wire-container">
             <a href="../img/vrra-screener-2.png" data-lightbox="lofi-img">
-                <img src="../img/vrra-screener-2.png" class="enlarge-img-2 wire-res-2" alt="Circular Lo-fi Wireframe by Shay Park" width="402" height="645">
+                <img src="../img/vrra-screener-2.png" class="enlarge-img-2 wire-res-2 col-2-last-img" alt="Circular Lo-fi Wireframe by Shay Park" width="402" height="645">
             </a>
         </div>
     </div>
