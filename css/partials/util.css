@@ -68,7 +68,7 @@ li {
 
 .header-right {
     position: relative;
-    top: 26%;
+    top: 43%;
     text-transform: uppercase;
     text-align: center;
 }
@@ -182,14 +182,14 @@ li {
 .abt-left {
     position: relative;
     margin: 0 auto;
-    top: 28%;
+    top: 40%;
 }
 
 .abt-right {
     position: relative;
     margin: 0 auto;
-    top: 28%;
-    text-align: right;
+    top: 40%;
+    text-align: center;
 }
 
 /*  -------------- // HOME // -------------- */

@@ -323,19 +323,20 @@
     .abt-left {
         margin: unset;
         left: 8%;
-        top: 69%;
+        top: 77%;
     }
 
     .abt-right {
         margin: unset;
         position: relative;
-        top: 69%;
+        text-align: right;
+        top: 77%;
         right: 8%;
 
     }
 
     .header-right {
-        top: 46%;
+        top: 63%;
         text-align: end;
         left: -8%;
     }
@@ -489,7 +490,7 @@
     /*-------------- // UTIL //  --------------*/
 
     .header-right {
-        top: 52%;
+        top: 68%;
         left: -10%;
     }
 
@@ -548,12 +549,12 @@
     /*-------------- // ABOUT PAGE //  --------------*/
     .abt-left {
         left: 7%;
-        top: 70%;
+        top: 76%;
     }
 
     .abt-right {
-        right: 8%;
-        top: 69%;
+        right: 7%;
+        top: 76%;
     }
 
     .about-sctn-box__title-cont {
@@ -698,17 +699,17 @@
     }
 
     .header-right {
-        top: 58%;
+        top: 68%;
         left: -8%;
     }
     .abt-left {
-        left: 8%;
-         top: 60%;
+        left: 5%;
+         top: 70%;
     }
 
     .abt-right {
-        left: -6%;
-        top: 60%;
+        left: -5%;
+        top: 70%;
     }
 
     .btn {
