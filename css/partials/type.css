@@ -86,3 +86,9 @@ b {
     font-size: .875rem;
     font-weight: 500;
 }
+
+.proto-text {
+    padding-bottom: 42px;
+    font-style: italic;
+    justify-content: center;
+}

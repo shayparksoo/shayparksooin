@@ -2,7 +2,7 @@
     <div class="grid">
         <div class="sctn-box__title-cont col col-12 artifact-brainstorm__title flex">
             <h3>Data Analysis & Possible Improvement</h3>
-            <p class="card-body padding-49-r">After the data of user testing, 3 members analyzed the data using Rainbow Spreadsheet, System Usability Scale, and Assess Questionnaire. Myself and one other member established a new design according to the result of the testing.</p>
+            <p class="card-body padding-49-r">After the data of user testing, 3 members analyzed the data using Rainbow Spreadsheet, System Usability Scale, and Assess Questionnaire. Marlowe and I established a new design according to the result of the testing.</p>
         </div>
     </div>
 </section>
@@ -13,7 +13,7 @@
             
             <h5>Key Takeaways</h5>
             <p class="card-body padding-49-r">
-                <ol type="1">
+                <ol type="1" class="padding-li">
                     <li>Problems with navigating through UI and adoption process</li>
                     <li>Problems choosing a donation option due to lack of centralization</li>
                     <li>Problems buying item because of unorganized categories</li>
@@ -21,7 +21,7 @@
             </p>
             <h5 class="h5-break">Possible Improvement</h5>
             <p class="card-body padding-49-r">
-                <ol type="1">
+                <ol type="1" class="padding-li">
                     <li>Improve <b>layout</b> to make the adoption process more <b>intuitive </b>categorization and hierarchy</li>
                     <li>Centralize donation process and make a <b>clear Call To Action</b></li>
                     <li><b>Organize</b> store items by category and include descriptions  </li>

@@ -4,8 +4,8 @@
             <ul>
                 <li class="sec-body-sm"><b>Prototype:</b> Figma, Adobe XD</li>
                 <li class="sec-body-sm"><b>Graphic Design:</b> Adobe Illustrator, Photoshop, InDesign</li>
-                <li class="sec-body-sm"><b>Code:</b> Visual Studio Code, Sublime Text</li>
-                <li class="sec-body-sm"><b>Video:</b> Adobe Premiere Pro, After Effect</li>
+                <li class="sec-body-sm"><b>Code:</b> HTML, CSS</li>
+                <li class="sec-body-sm"><b>Video:</b> Adobe Premiere Pro, After Effects</li>
                 <li class="sec-body-sm"><b>Office:</b> Microsoft Word, Excel, PowerPoint</li>
             </ul>
         </div>
