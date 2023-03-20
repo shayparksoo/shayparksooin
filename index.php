@@ -9,11 +9,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Shay Park's UI UX Design Porfolio Website">
         <meta name="keywords" content="shay park portfolio, soo in park portfolio, Portfolio, design, UI, UX, UI UX, UI UX Designer, UI UX Designer, graphic, graphic designer, photographer, figma, illustrator, photoshop, vancouver, bcit">
-        <!-- Facebook Meta Tags -->
+        
+        <!-- Facebook/LinkedIn Meta Tags -->
         <meta property="og:url" content="https://shayparksooin.com/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Shay Park's Portfolio Website">
-        <meta property="og:description" content="Welcome to Shay Park's portfolio website! Shay is a UI/UX designer who graduated from BCIT. Shay focuses to satisfy users' experience and goal by showcasing visual designs. Visit her website to see her prototype and connect with her through social media. ">
+        <meta property="og:description" content="Welcome to Shay Park's portfolio website! Shay is a UI/UX designer who graduated from BCIT. Shay focuses to satisfy users' experience and goal by showcasing visual designs. Visit her website to see her prototype and connect with her through social media.">
         <meta property="og:image" content="https://imgur.com/GAF7X4O">
 
         <!-- Twitter Meta Tags -->
@@ -21,7 +22,7 @@
         <meta property="twitter:domain" content="shayparksooin.com">
         <meta property="twitter:url" content="https://shayparksooin.com/">
         <meta name="twitter:title" content="Shay Park's Portfolio">
-        <meta name="twitter:description" content="Shay Park's UI UX Design Porfolio Website">
+        <meta name="twitter:description" content="Welcome to Shay Park's portfolio website! Shay is a UI/UX designer who graduated from BCIT. Shay focuses to satisfy users' experience and goal by showcasing visual designs. Visit her website to see her prototype and connect with her through social media.">
         <meta name="twitter:image" content="https://imgur.com/5AOlFzL">
 
         <title>Shay Park's Portfolio</title>
