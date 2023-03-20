@@ -6,6 +6,7 @@
     color: #646464;
     border-top: 1px solid #000;
     order: 9;
+    row-gap: 8px;
 }
 
 .footer__logo img{
