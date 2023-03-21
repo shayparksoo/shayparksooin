@@ -10,6 +10,22 @@
         <title>UI UX: Circular Project by Shay Park</title>
         <meta name="description" content="Shay Park's Circular Project">
         <meta name="keywords" content="shay park portfolio, soo in park portfolio, Portfolio, design, UI, UX, UI UX, UI UX Designer, UI UX Designer, digital graphic, figma, illustrator, photoshop, vancouver, bcit, circular project, UI design, UX design, user experience, prototype">
+
+        <!-- Facebook/LinkedIn Meta Tags -->
+        <meta property="og:url" content="https://shayparksooin.com/">
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="Shay Park's Circular Project">
+        <meta property="og:description" content="Circular is a school project that was completed to research the user experience of online shopping and analyzing the information to create a prototype of an online clothing shop using skills from Adobe XD and Figma. I explained the process of the workflow by explaining the concept, user research, wireframe, challenges, and the final deliverable. The project was created by using Figma and Adobe XD.">
+        <meta property="og:image" content="">
+
+        <!-- Twitter Meta Tags -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta property="twitter:domain" content="shayparksooin.com">
+        <meta property="twitter:url" content="https://shayparksooin.com/">
+        <meta name="twitter:title" content="Shay Park's Circular Project">
+        <meta name="twitter:description" content="Circular is a school project that was completed to research the user experience of online shopping and analyzing the information to create a prototype of an online clothing shop using skills from Adobe XD and Figma. I explained the process of the workflow by explaining the concept, user research, wireframe, challenges, and the final deliverable. The project was created by using Figma and Adobe XD.">
+        <meta name="twitter:image" content="">
+
         <link href="plugin/lightbox2/dist/css/lightbox.css" rel="stylesheet" />
         <link rel="stylesheet" href="css/reset.css">
         <link rel="stylesheet" href="css/main.css">

@@ -7,17 +7,17 @@
         </div>
         <div class="sctn-box__body-cont col col-12-sm col-4-md col-2">
             <a href="https://dribbble.com/shots/14517055-Tolly-payment-details" target="_blank">
-            <img src="../img/onetap-ref1.png" class="enlarge-img-3 circular-ref-1" alt="One Tap Reference Image by Daniella" width="294" height="595">
+            <img src="../img/onetap-ref1.png" class="enlarge-img-3 circular-ref-1" alt="One Tap Reference Image by Daniella" width="294" height="595" loading="lazy">
             </a>
         </div>
         <div class="sctn-box__body-cont col col-12-sm col-4-md col-2">
             <a href="https://dribbble.com/shots/3946677-Point-of-Sales" target="_blank" >
-            <img src="../img/onetap-ref2.png" class="enlarge-img-3 circular-ref-2 col-3-sec-img" alt="One Tap Reference Image by Aria Kepo" width="294" height="595">
+            <img src="../img/onetap-ref2.png" class="enlarge-img-3 circular-ref-2 col-3-sec-img" alt="One Tap Reference Image by Aria Kepo" width="294" height="595" loading="lazy">
             </a>
         </div>
         <div class="sctn-box__body-cont col col-12-sm col-4-md col-2">
             <a href="https://dribbble.com/shots/7052708-Bip-Pos-Technologies-dashboard" target="_blank" >
-            <img src="../img/onetap-ref3.png" class="enlarge-img-3 circular-ref-img3 col-3-last-img" alt="One Tap Reference Image by Lesya Toporova" width="294" height="595">
+            <img src="../img/onetap-ref3.png" class="enlarge-img-3 circular-ref-img3 col-3-last-img" alt="One Tap Reference Image by Lesya Toporova" width="294" height="595" loading="lazy">
             </a>
         </div>
     </div>
