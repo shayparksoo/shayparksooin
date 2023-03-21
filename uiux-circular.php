@@ -16,7 +16,7 @@
         <meta property="og:type" content="website">
         <meta property="og:title" content="Shay Park's Circular Project">
         <meta property="og:description" content="Circular is a school project that was completed to research the user experience of online shopping and analyzing the information to create a prototype of an online clothing shop using skills from Adobe XD and Figma. I explained the process of the workflow by explaining the concept, user research, wireframe, challenges, and the final deliverable. The project was created by using Figma and Adobe XD.">
-        <meta property="og:image" content="">
+        <meta property="og:image" content="/img/og-fb-circular.png">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
@@ -24,7 +24,7 @@
         <meta property="twitter:url" content="https://shayparksooin.com/">
         <meta name="twitter:title" content="Shay Park's Circular Project">
         <meta name="twitter:description" content="Circular is a school project that was completed to research the user experience of online shopping and analyzing the information to create a prototype of an online clothing shop using skills from Adobe XD and Figma. I explained the process of the workflow by explaining the concept, user research, wireframe, challenges, and the final deliverable. The project was created by using Figma and Adobe XD.">
-        <meta name="twitter:image" content="">
+        <meta name="twitter:image" content="/img/og-tw-circular.png">
 
         <link href="plugin/lightbox2/dist/css/lightbox.css" rel="stylesheet" />
         <link rel="stylesheet" href="css/reset.css">

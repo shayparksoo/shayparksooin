@@ -16,7 +16,7 @@
         <meta property="og:type" content="website">
         <meta property="og:title" content="Shay Park's  VRRA Project">
         <meta property="og:description" content="VRRA is a school group project and its purpose was to perform a study of user experience of a website. The project included research of a potential website that can be redesigned, a development and production of user research, and an analysis of data result with a possible design improvement of wireframes. I played the role as test moderator and UI/UX designer and produced a prototype from the reseach analysis.">
-        <meta property="og:image" content="">
+        <meta property="og:image" content="/img/og-fb-vrra.png">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
@@ -24,7 +24,7 @@
         <meta property="twitter:url" content="https://shayparksooin.com/">
         <meta name="twitter:title" content="Shay Park's  VRRA Project">
         <meta name="twitter:description" content="VRRA is a school group project and its purpose was to perform a study of user experience of a website. The project included research of a potential website that can be redesigned, a development and production of user research, and an analysis of data result with a possible design improvement of wireframes. I played the role as test moderator and UI/UX designer and produced a prototype from the reseach analysis.">
-        <meta name="twitter:image" content="">
+        <meta name="twitter:image" content="/img/og-tw-vrra.png">
 
         <link href="plugin/lightbox2/dist/css/lightbox.css" rel="stylesheet" />
         <link rel="stylesheet" href="css/reset.css">

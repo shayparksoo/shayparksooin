@@ -13,7 +13,7 @@
         <meta property="og:type" content="website">
         <meta property="og:title" content="Shay Park's About Page">
         <meta property="og:description" content="I'm a UI/UX designer who strives to produce designs that increases user experience. I love to create designs that are simple but effective to give a seamless user flow. I lived in Vancouver since 2003 and I love to go out to take photos of the beautiful scenary and people.">
-        <meta property="og:image" content="">
+        <meta property="og:image" content="/img/og-fb-about.png">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
@@ -21,7 +21,7 @@
         <meta property="twitter:url" content="https://shayparksooin.com/">
         <meta name="twitter:title" content="Shay Park's About Page">
         <meta name="twitter:description" content="I'm a UI/UX designer who strives to produce designs that increases user experience. I love to create designs that are simple but effective to give a seamless user flow. I lived in Vancouver since 2003 and I love to go out to take photos of the beautiful scenary and people.">
-        <meta name="twitter:image" content="">
+        <meta name="twitter:image" content="/img/og-tw-about.png">
 
         <link rel="stylesheet" href="css/reset.css">
         <link rel="stylesheet" href="css/main.css">

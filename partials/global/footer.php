@@ -3,7 +3,7 @@
         <a href="index.html"><img src="/img/logo.svg" alt="Shay Park Logo"></a>
     </div>
     <div class="footer__copyright">
-        <p>2022. Shay Park. All Rights Reserved.</p>
+        <p>2023. Shay Park. All Rights Reserved.</p>
     </div>
     <div class="footer__icon">
         <ul class="align-ul">
