@@ -32,17 +32,17 @@
         </div>
         <div class="sctn-box__body-cont col col-12-sm col-4-md col-2">
             <a href="../img/vrra-test-1.png" data-lightbox="ref-img">
-                <img src="../img/vrra-test-1.png" class="enlarge-img-3 circular-ref-1" alt="Circular Reference Image: Everlane" width="294" height="595">
+                <img src="../img/vrra-test-1.png" class="enlarge-img-3 circular-ref-1" alt="Circular Reference Image: Everlane" width="294" height="595" loading="lazy">
             </a>
         </div>
         <div class="sctn-box__body-cont col col-12-sm col-4-md col-2">
             <a href="../img/vrra-test-2.png" data-lightbox="ref-img">
-                <img src="../img/vrra-test-2.png" class="enlarge-img-3 circular-ref-2 col-3-sec-img" alt="Circular Reference Image: Everlane" width="294" height="595">
+                <img src="../img/vrra-test-2.png" class="enlarge-img-3 circular-ref-2 col-3-sec-img" alt="Circular Reference Image: Everlane" width="294" height="595" loading="lazy">
             </a>
         </div>
         <div class="sctn-box__body-cont col col-12-sm col-4-md col-2">
             <a href="../img/vrra-test-3.png" data-lightbox="ref-img">
-                <img src="../img/vrra-test-3.png" class="enlarge-img-3 circular-ref-img3 col-3-last-img" alt="Circular Reference Image: Oak & Fort" width="294" height="595">
+                <img src="../img/vrra-test-3.png" class="enlarge-img-3 circular-ref-img3 col-3-last-img" alt="Circular Reference Image: Oak & Fort" width="294" height="595" loading="lazy">
             </a>
         </div>
     </div>
