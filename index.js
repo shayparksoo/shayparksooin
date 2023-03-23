@@ -55,3 +55,12 @@ $(function() {
     });
 });
 
+// alert();
+
+
+$(function() {
+
+    var lazyLoadInstance = new LazyLoad({
+
+    });
+});
