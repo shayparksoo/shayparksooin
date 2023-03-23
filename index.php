@@ -52,6 +52,7 @@
         <script src="plugin/lightbox2/dist/js/lightbox.min.js"></script>
         <script src="https://unpkg.com/@barba/core"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.8.3/dist/lazyload.min.js"></script>
         <script src="index.js"></script>
         
     </body>

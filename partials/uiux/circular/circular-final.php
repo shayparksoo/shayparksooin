@@ -8,7 +8,7 @@
     <p class="col col-12 flex proto-text">A Prototype of Circular Mobile: User Sign Up Process</p>
 
     <!-- Desktop Adobe XD -->
-    <iframe class="col-12 figma-center" style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1000" height="650" src="https://xd.adobe.com/embed/84465405-bc7e-4bf7-844b-1fbd48829b16-d115/" frameborder="0" loading="lazy" sandbox="allow-same-origin"></iframe>
+    <iframe class="col-12 figma-center lazy" style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1000" height="650" data-src="https://xd.adobe.com/embed/84465405-bc7e-4bf7-844b-1fbd48829b16-d115/" frameborder="0" loading="lazy" sandbox="allow-same-origin allow-forms allow-scripts"></iframe>
     <p class="col col-12 flex proto-text">A Prototype of Circular Desktop: Product Check Out Process</p>
     
 </section>

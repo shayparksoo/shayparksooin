@@ -44,6 +44,8 @@
             <?php require('partials/global/footer.php')?>
 
     </div>
-
+    <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.8.3/dist/lazyload.min.js"></script>
+    <script src="index.js"></script>
+    
     </body>
 </html>
