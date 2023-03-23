@@ -38,7 +38,7 @@
             <?php require('partials/global/header.php')?>
 
             <main data-barba="container" data-barba-namespace="404">
-            <div class="fade-in error-cont"><a href="https://shayparksooin.com"><img src="/img/404-error.png" width="300" height="300"></img></a></div>
+            <div class="fade-in error-cont"><a href="https://shayparksooin.com"><img src="/img/404-error.png" width="360" height="560"></img></a></div>
             </main>
 
             <?php require('partials/global/footer.php')?>
