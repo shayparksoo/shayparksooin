@@ -13,7 +13,7 @@
         </div>
         <div class="work__ind-card col col-12-sm col-6-md col-4">
             <div class="card-img">
-                <a href="<?php echo WWW_ROOT . '/uiux-vrra.php';?>"><div class="card-img__vrra card-img border-b" title="VRRA UI UX by Shay Park"></div></a>
+                <a href="<?php echo WWW_ROOT . '/uiux-vrra.php';?>"><div class="card-img__vrra card-img border-b" title="VRRA UI/UX by Shay Park"></div></a>
             </div>
             <div class="card-content">
                 <h3 class="card-h3">VRRA - UI/UX</h3>
@@ -24,7 +24,7 @@
         </div>
         <div class="work__ind-card col col-12-sm col-6-md col-4">
             <div class="card-img">
-                <a href="<?php echo WWW_ROOT . '/uiux-vrra.php';?>"><div class="card-img__vrra card-img border-b" title="VRRA UI UX by Shay Park"></div></a>
+                <a href="<?php echo WWW_ROOT . '/uiux-paytrack.php';?>"><div class="card-img__paytrack card-img border-b" title="PayTrack UI Design by Shay Park"></div></a>
             </div>
             <div class="card-content">
                 <h3 class="card-h3">PayTrack - UI Design</h3>
@@ -35,7 +35,7 @@
         </div>
         <div class="work__ind-card col col-12-sm col-6-md col-4 work_onetap last-card">
             <div class="card-img">
-                <a href="<?php echo WWW_ROOT . '/uiux-onetap.php';?>"><div class="card-img__onetap card-img border-b" title="One Tap UI UX by Shay Park"></div></a>
+                <a href="<?php echo WWW_ROOT . '/uiux-onetap.php';?>"><div class="card-img__onetap card-img border-b" title="One Tap UI/UX by Shay Park"></div></a>
             </div>
             <div class="card-content">
                 <h3 class="card-h3">One Tap - UI Design</h3>
