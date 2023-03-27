@@ -22,6 +22,17 @@
                 <a href="<?php echo WWW_ROOT . '/uiux-vrra.php';?>" alt="View VRRA Project"><button class="btn btn-card-top btn-outline button-txt">View Project</button></a>
             </div>
         </div>
+        <div class="work__ind-card col col-12-sm col-6-md col-4">
+            <div class="card-img">
+                <a href="<?php echo WWW_ROOT . '/uiux-vrra.php';?>"><div class="card-img__vrra card-img border-b" title="VRRA UI UX by Shay Park"></div></a>
+            </div>
+            <div class="card-content">
+                <h3 class="card-h3">PayTrack - UI Design</h3>
+                <p class="card-category">UI Design</p>
+                <p class="card-body">A personal project that showcases the process of adding a new subscription in a subscription management app.</p>
+                <a href="<?php echo WWW_ROOT . '/uiux-paytrack.php';?>" alt="View PayTrack Project"><button class="btn btn-card-top btn-outline button-txt">View Project</button></a>
+            </div>
+        </div>
         <div class="work__ind-card col col-12-sm col-6-md col-4 work_onetap last-card">
             <div class="card-img">
                 <a href="<?php echo WWW_ROOT . '/uiux-onetap.php';?>"><div class="card-img__onetap card-img border-b" title="One Tap UI UX by Shay Park"></div></a>
