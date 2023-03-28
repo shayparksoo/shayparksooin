@@ -1,6 +1,6 @@
 <section class="uiux__cards">
     <div class="work__cont grid">
-        <div class="work__ind-card col col-12-sm col-6-md col-4">
+        <div class="portfolio__ind-card col col-12-sm col-6-md col-4 portfolio-row-1">
             <div class="card-img">
                 <a href="<?php echo WWW_ROOT . '/uiux-circular.php';?>"><div class="card-img__circular card-img border-b" title="Circular UI UX by Shay Park"></div></a>
             </div>
@@ -11,7 +11,7 @@
                 <a href="<?php echo WWW_ROOT . '/uiux-circular.php';?>" alt="View Circular Project"><button class="btn btn-card-top btn-outline button-txt">View Project</button></a>
             </div>
         </div>
-        <div class="work__ind-card col col-12-sm col-6-md col-4">
+        <div class="portfolio__ind-card col col-12-sm col-6-md col-4 portfolio-row-1">
             <div class="card-img">
                 <a href="<?php echo WWW_ROOT . '/uiux-vrra.php';?>"><div class="card-img__vrra card-img border-b" title="VRRA UI/UX by Shay Park"></div></a>
             </div>
@@ -22,7 +22,7 @@
                 <a href="<?php echo WWW_ROOT . '/uiux-vrra.php';?>" alt="View VRRA Project"><button class="btn btn-card-top btn-outline button-txt">View Project</button></a>
             </div>
         </div>
-        <div class="work__ind-card col col-12-sm col-6-md col-4">
+        <div class="portfolio__ind-card col col-12-sm col-6-md col-4 portfolio-row-1">
             <div class="card-img">
                 <a href="<?php echo WWW_ROOT . '/uiux-paytrack.php';?>"><div class="card-img__paytrack card-img border-b" title="PayTrack UI Design by Shay Park"></div></a>
             </div>
@@ -33,7 +33,7 @@
                 <a href="<?php echo WWW_ROOT . '/uiux-paytrack.php';?>" alt="View PayTrack Project"><button class="btn btn-card-top btn-outline button-txt">View Project</button></a>
             </div>
         </div>
-        <div class="work__ind-card col col-12-sm col-6-md col-4 work_onetap last-card">
+        <div class="portfolio__ind-card col col-12-sm col-6-md col-4 work_onetap last-card">
             <div class="card-img">
                 <a href="<?php echo WWW_ROOT . '/uiux-onetap.php';?>"><div class="card-img__onetap card-img border-b" title="One Tap UI/UX by Shay Park"></div></a>
             </div>
