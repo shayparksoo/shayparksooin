@@ -47,11 +47,11 @@
     }
 
     .work__ind-card.graphic-card {
-        border-bottom: 0;
+        border-bottom: unset;
     }
 
     .work__ind-card.photo-card {
-        border-bottom: 0;
+        border-bottom: unset;
     }
 
     .work__ind-card:nth-child(2) {
@@ -59,7 +59,7 @@
     }
 
     .work__ind-card.work_onetap:nth-child(2) {
-        border-bottom: 0;
+        border-bottom: unset;
     }
 
     .col-2-lastcard {
@@ -147,10 +147,14 @@
         border-bottom: 1px solid #000;
     }
 
-    /*-------------- // 300 UX PAGE  //  --------------*/
+    /*-------------- // 300 PORTFOLIO PAGE  //  --------------*/
 
     .header-txt-color{
         color: #fff;
+    }
+
+    .portfolio-card:last-child {
+        border-bottom: unset;
     }
 
      /*-------------- // 300 ARTIFACT //  --------------*/
@@ -180,6 +184,11 @@
 
     .artifact-concept__title,.col-3-sec-img {
         border-bottom: 1px solid #000;
+    }
+
+    .paytrack-wireframe {
+        border-top: 1px solid #000;
+        height: 492px;
     }
 }
 
@@ -402,12 +411,19 @@
         padding-right: 0;
     }
 
-    /*-------------- // 768 UX PAGE  //  --------------*/
+    /*-------------- // 768 PORTFOLIO PAGE  //  --------------*/
 
     .header-txt-color{
         color: var(--primary);
     }
 
+    .portfolio-card:first-child, .portfolio-card:nth-child(3) {
+        border-right: unset;
+    }
+
+    .portfolio-card:nth-child(3) {
+        border-bottom: unset;
+    }
 
     /*-------------- // 768 ARTIFACTS //  --------------*/
     .enlarge-img-3 {
@@ -432,10 +448,7 @@
 
     .circular-ref-1 {
         border-bottom: 1px solid #000;
-    }
-
-    .circular-ref-1, {
-        border-top: 0px solid #000;
+        border-top: unset;
     }
 
     .circular-ref-img3,.circular-wireframe__title {
@@ -453,7 +466,6 @@
     .col-3-sec-img {
         border-top: unset;
     }
-
 
     .artifact__title,.enlarge-img-3,.circular-wire-container:first-child,.circular-wireframe__title {
         border-right: unset;
@@ -474,6 +486,15 @@
 
     .circular-ref-img3 {
         width: 100%
+    }
+
+    .paytrack-wire-text {
+        border-bottom: unset;
+    }
+
+    .paytrack-wireframe {
+        border-left: unset;
+        border-top: unset;
     }
 
     .col-3-last-img {
@@ -601,15 +622,25 @@
         border-right: 1px solid #000;
     }
 
+    /*-------------- // 1024 PORTFOLIO PAGE //  --------------*/
+
+    .portfolio-card:nth-child(3) {
+        border-right: 1px solid #000;
+        border-left: unset;
+        border-bottom: 1px solid #000;
+    }
+
+    .portfolio-card:last-child {
+        border-bottom: unset;
+    }
+
 
     /*-------------- // 1024 ARTIFACT //  --------------*/
     .enlarge-img-2 {
-        /* max-width: 322px; */
         border-right: unset;
     }
     
     .enlarge-img-3 {
-        /* max-width: 343px; */
         object-fit: cover;
     }
 
@@ -618,7 +649,7 @@
     }
 
     .circular-wire-container {
-        height: 596px;
+        height: 613px;
     }
 
     .circular-wire-container:last-child {
@@ -629,6 +660,12 @@
         border-right: unset;
     }
 
+    .circular-wire-container.paytrack-wireframe {
+        border-left: 1px solid #000;
+        border-top: unset;
+        height: 291px;
+    }
+
     .col-3-last-img {
         border-right: 1px solid #000;
     }
@@ -636,10 +673,21 @@
     .artifact-concept__title,.circular-wireframe__title {
         border-bottom: unset;
     }
-
-
 }
 
+/* -------------- // ******** 1440px ******* // --------------*/
+@media screen and (min-width: 1440px) {   
+    .grid {
+        padding: 0 160px;
+    }
+
+
+    .circular-wire-container.paytrack-wireframe {
+        border-right: 1px solid #000;
+        border-left: 1px solid #000;
+        height: 245px;
+    }
+}
 /* -------------- // ******** 2560px ******* // --------------*/
 @media screen and (min-width: 2560px) { 
     .col-1-xl { grid-column: span 1; }

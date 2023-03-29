@@ -71,13 +71,35 @@
     transform: scale(1.1);
 }
 
-/* -------------- // Card Image - Kart Rider // --------------*/
+/* -------------- // Card Image - VRRA // --------------*/
 .card-img__vrra {
     background-image: url(../../img/vrra-card.png);
     transition: all .5s ease;
 }
 
 .card-img__vrra:hover {
+    transform: scale(1.1);
+}
+
+.card-img__vrra-ref1 {
+    background-image: url(../../img/kart-ref1.png);
+}
+
+.card-img__vrra-ref2 {
+    background-image: url(../../img/kart-ref2.png);
+}
+
+.card-img__vrra-ref3 {
+    background-image: url(../../img/kart-ref3.png);
+}
+
+/* -------------- // Card Image - PayTrack // --------------*/
+.card-img__paytrack {
+    background-image: url(../../img/paytrack-card.png);
+    transition: all .5s ease;
+}
+
+.card-img__paytrack:hover {
     transform: scale(1.1);
 }
 
