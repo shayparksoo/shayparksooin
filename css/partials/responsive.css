@@ -47,11 +47,11 @@
     }
 
     .work__ind-card.graphic-card {
-        border-bottom: 0;
+        border-bottom: unset;
     }
 
     .work__ind-card.photo-card {
-        border-bottom: 0;
+        border-bottom: unset;
     }
 
     .work__ind-card:nth-child(2) {
@@ -59,7 +59,7 @@
     }
 
     .work__ind-card.work_onetap:nth-child(2) {
-        border-bottom: 0;
+        border-bottom: unset;
     }
 
     .col-2-lastcard {
@@ -147,10 +147,14 @@
         border-bottom: 1px solid #000;
     }
 
-    /*-------------- // 300 UX PAGE  //  --------------*/
+    /*-------------- // 300 PORTFOLIO PAGE  //  --------------*/
 
     .header-txt-color{
         color: #fff;
+    }
+
+    .portfolio-card:last-child {
+        border-bottom: unset;
     }
 
      /*-------------- // 300 ARTIFACT //  --------------*/
@@ -402,12 +406,19 @@
         padding-right: 0;
     }
 
-    /*-------------- // 768 UX PAGE  //  --------------*/
+    /*-------------- // 768 PORTFOLIO PAGE  //  --------------*/
 
     .header-txt-color{
         color: var(--primary);
     }
 
+    .portfolio-card:first-child, .portfolio-card:nth-child(3) {
+        border-right: unset;
+    }
+
+    .portfolio-card:nth-child(3) {
+        border-bottom: unset;
+    }
 
     /*-------------- // 768 ARTIFACTS //  --------------*/
     .enlarge-img-3 {
@@ -601,6 +612,18 @@
         border-right: 1px solid #000;
     }
 
+    /*-------------- // 1024 PORTFOLIO PAGE //  --------------*/
+
+    .portfolio-card:nth-child(3) {
+        border-right: 1px solid #000;
+        border-left: unset;
+        border-bottom: 1px solid #000;
+    }
+
+    .portfolio-card:last-child {
+        border-bottom: unset;
+    }
+
 
     /*-------------- // 1024 ARTIFACT //  --------------*/
     .enlarge-img-2 {
@@ -636,8 +659,6 @@
     .artifact-concept__title,.circular-wireframe__title {
         border-bottom: unset;
     }
-
-
 }
 
 /* -------------- // ******** 2560px ******* // --------------*/

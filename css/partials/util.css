@@ -170,6 +170,18 @@ li {
     border-right: 1px solid #000;
 }
 
+.portfolio-card .card-content {
+    align-items: center;
+    text-align: left;
+    padding: 38px 28px;
+}
+
+.portfolio-card {
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+
 
 /*  -------------- // Container BG Color // -------------- */
 .bg-color-1 {
