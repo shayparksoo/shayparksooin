@@ -6,18 +6,18 @@
             <p class="card-body padding-49-r p-break">I researched Material Design 3 to reference their features such as navigation bar and input field. My design uses a mixture of iOS and Android UI design because there were advantages of both design system that my design could benefit from (bottom navigation has both floating action and a setting page).</p>
         </div>
         <div class="sctn-box__body-cont col col-12-sm col-4-md col-2">
-            <a href="../img/circular-ref1.png" data-lightbox="ref-img">
-                <img src="../img/circular-ref1.png" class="enlarge-img-3 circular-ref-1" alt="Circular Reference Image: Everlane" width="294" height="595" loading="lazy">
+            <a href="https://dribbble.com/shots/14514580-Subscriptions-Manager-App?utm_source=pinterest&utm_campaign=pinterest_shot&utm_content=Subscriptions+Manager+App&utm_medium=Social_Share" target="_blank">
+            <img src="../img/paytrack-ref1.png" class="enlarge-img-3 paytrack-ref-1" alt="PayTrack Reference Image by Mohammad Khademi" width="294" height="595" loading="lazy">
             </a>
         </div>
         <div class="sctn-box__body-cont col col-12-sm col-4-md col-2">
-            <a href="../img/circular-ref2.png" data-lightbox="ref-img">
-                <img src="../img/circular-ref2.png" class="enlarge-img-3 circular-ref-2" alt="Circular Reference Image: Everlane" width="294" height="595" loading="lazy">
+            <a href="https://dribbble.com/shots/5650014-Daily-UI-002-Credit-Card-Checkout" target="_blank" >
+            <img src="../img/paytrack-ref2.png" class="enlarge-img-3 paytrack-ref-2 col-3-sec-img" alt="PayTrack Reference Image by Jani Kiltti" width="294" height="595" loading="lazy">
             </a>
         </div>
         <div class="sctn-box__body-cont col col-12-sm col-4-md col-2">
-            <a href="../img/circular-ref3.png" data-lightbox="ref-img">
-                <img src="../img/circular-ref3.png" class="enlarge-img-3 circular-ref-img3" alt="Circular Reference Image: Oak & Fort" width="294" height="595" loading="lazy">
+            <a href="https://dribbble.com/shots/6987428-Saving-Goals-App" target="_blank" >
+            <img src="../img/paytrack-ref3.png" class="enlarge-img-3 paytrack-ref-img3 col-3-last-img" alt="PayTrack Reference Image by Iwona Wojciechowska" width="294" height="595" loading="lazy">
             </a>
         </div>
     </div>
