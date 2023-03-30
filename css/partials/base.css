@@ -29,3 +29,15 @@ a {
     text-decoration: none;
     color: #000;
 }
+
+ol {
+    list-style: auto;
+    padding-top: 12px;
+}
+
+li {
+    font-size: 1.1rem;
+    font-weight: 300;
+    line-height: 1.6rem;
+    color: #404040;
+}
