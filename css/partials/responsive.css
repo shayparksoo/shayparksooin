@@ -220,9 +220,12 @@
     }
 
     .work__ind-card .card-content {
-        padding: 45px 69px;
-       
+        padding: 45px 58px;
     }
+
+    /* .work__ind-card.card-content.card-h3 {
+        padding-top: 0;
+    } */
 
     .grid {
         padding: 0 72px;

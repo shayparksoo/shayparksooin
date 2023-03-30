@@ -11,7 +11,7 @@
             </div>
             <div class="artifact-specs__ind-text">
                 <h3 class="h3-artifact-gen">Role</h3>
-                <p class="card-body">UI/UX Designer</p>
+                <p class="card-body">UI Designer</p>
             </div>
             <div class="artifact-specs__ind-text">
                 <h3 class="h3-artifact-gen">Software</h3>

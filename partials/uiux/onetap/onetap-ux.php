@@ -6,7 +6,7 @@
         </div>
         <div class="sctn-box__title-cont col col-12-sm col-6-md col-6 circular-ux__title design-cont padding-49-l">
             <h3>Design System</h3>
-            <p class="card-body">Overall, the design has a rounded corner in cards, buttons, and font style to give familiarity and easy-to-follow lines. I referenced <a href="https://m3.material.io/" title="Go to Material Design Website" target="_blank">Material Design System</a> for font sizes to locate the hierarchy. The spacious design style was to implement simplicity and clarity as the software will be seen on a small screen of a tablet. I used small use of colour to increase the focus on the interface</p>
+            <p class="card-body">Overall, the design has a rounded corner in cards, buttons, and font style to give familiarity and easy-to-follow lines. I referenced <a href="https://m3.material.io/" title="Go to Material Design Website" target="_blank">Material Design System</a> for font sizes to locate the hierarchy. The <b>spacious design</b> style was to implement simplicity and clarity as the software will be seen on a small screen of a tablet. I used small use of colour to increase the focus on the interface.</p>
         </div>
     </div>
 </section>

@@ -52,23 +52,17 @@
     max-width: 100%;
 }
 
-ol {
-    list-style: auto;
-    padding-top: 12px;
-}
-
-li {
-    font-size: 1.1rem;
-    font-weight: 300;
-    line-height: 1.6rem;
-    color: #646464;
-}
-
 .padding-li {
     padding-left: 36px;
 }
 
+.primary-btn-txt {
+    color: #fff;
+}
 
+.primary-btn-txt:hover {
+    color: #000;
+}
 
 /*  -------------- // UTIL  // -------------- */
 
@@ -230,11 +224,6 @@ li {
 }
 
 /*  -------------- // Container Text Padding // -------------- */
-/* .padding-right {
-    padding-right: 49px;
-    padding-left: 102px;
-} */
-
 .padding-right {
     padding-right: 52px;
     padding-left: 44px;
@@ -245,13 +234,13 @@ li {
     padding-right: 28px;
 }
 
-.padding-49-l {
+/* .padding-49-l {
     padding-left: 49px;
 }
 
 .padding-49-r {
     padding-right: 49px;
-}
+} */
 
 .padding-top {
     padding-top: 100px;
@@ -278,10 +267,8 @@ li {
 .sctn-box__title-cont {
     height: auto;
     padding: 18px 16px 20px;
-    /* border-bottom: 1px solid black; */
     width: 100%;
     position: relative;
-    
 }
 
 .sctn-box__body-cont {
