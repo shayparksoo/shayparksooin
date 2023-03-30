@@ -1,5 +1,5 @@
 <header>
-        <div class="gn-container flex">
+        <div class="gn-container flex" id="gn">
             <div>
                 <a href="index.php"><img src="/img/logo.svg" class="gn__logo" alt="Shay Park Logo"></a>
             </div>

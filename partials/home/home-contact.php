@@ -4,8 +4,8 @@
             <h2 class="home-heading home-left">Contact Me</h2>
         </div>
         <div class="home-contact__body-cont col col-12-sm col-6-md col-7 flex padding-right border-l">
-            <p class="home-contact__body sec-body-md">Let's Have a Chat</p>
-            <p class="home-contact__body sec-body-sm">Feel free to check out my social media accounts and reach out to me to connect!<br>I would love to see your design and be inspired.</p>
+            <p class="home-contact__body sec-body-md">Do you want to connect?</p>
+            <p class="home-contact__body sec-body-sm">Let's grab a cup of tea together and connect with one another! <br>I would love to see your designs :)</p>
             <div class="home-contact__icon">
                 <ul class="align-ul">
                     <li><a href="https://www.linkedin.com/in/shay-park-008229206/" target="_blank"><img src="/img/LinkedinFilled.svg" alt="Shay's LinkedIn Profile"></a></li>

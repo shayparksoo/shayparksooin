@@ -39,7 +39,7 @@
             </div>
             <div class="card-content">
                 <h3 class="card-h3">One Tap</h3>
-                <p class="card-category">UI/UX</p>
+                <p class="card-category">UI Design</p>
                 <p class="card-body">A personal UI project to design a Point of Sales System to enhance the look of a software for an efficent task completion.</p>
                 <a href="<?php echo WWW_ROOT . '/uiux-onetap.php';?>" alt="View One Tap Project"><button class="btn btn-card-top btn-outline button-txt">View Project</button></a>
             </div>

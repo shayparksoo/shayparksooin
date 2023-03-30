@@ -55,12 +55,27 @@ $(function() {
     });
 });
 
-// alert();
+
+// $(function() {
+
+//     var lazyLoadInstance = new LazyLoad({
+
+//     });
+// });
 
 
-$(function() {
+// window.onscroll = function() {myFunction()};
 
-    var lazyLoadInstance = new LazyLoad({
+// var gn = document.getElementById("gn");
 
-    });
-});
+// var sticky = gn.offsetTop;
+
+// function myFunction() {
+
+//     if (window.pageYOffset >= sticky) {
+//     gn.classList.add("sticky")
+//   } else {
+//     gn.classList.remove("sticky");
+//   }
+
+// }
