@@ -13,7 +13,7 @@
                 <img src="../img/circular-lofi1.png" class="enlarge-img-2 wire-res-1 circular-wire-1" alt="Circular Lo-fi Wireframe by Shay Park" width="437" height="670" loading="lazy">
             </a>
         </div>
-        <div class="sctn-box__body-cont col col-12-sm col-6-md col-3 flex circular-wire-container">
+        <div class="sctn-box__body-cont col col-12-sm col-6-md col-3 flex circular-wire-container second-card">
             <a href="../img/circular-lofi2.png" data-lightbox="lofi-img">
                 <img src="../img/circular-lofi2.png" class="enlarge-img-2 wire-res-2 col-2-last-img" alt="Circular Lo-fi Wireframe by Shay Park" width="437" height="670" loading="lazy">
             </a>

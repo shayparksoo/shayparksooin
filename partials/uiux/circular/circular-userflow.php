@@ -13,7 +13,7 @@
                 <img src="../img/circular-flow-desk.png" class="enlarge-img-2 wire-res-1 circular-wire-1" alt="Circular User Flow of Mobile Version by Shay Park" width="437" height="670" loading="lazy">
             </a>
         </div>
-        <div class="sctn-box__body-cont col col-12-sm col-6-md col-3 flex circular-wire-container">
+        <div class="sctn-box__body-cont col col-12-sm col-6-md col-3 flex circular-wire-container second-card">
             <a href="../img/circular-flow-app.png" data-lightbox="lofi-img">
                 <img src="../img/circular-flow-app.png" class="enlarge-img-2 wire-res-2 col-2-last-img" alt="Circular User Flow of Desktop Version by Shay Park" width="437" height="670" loading="lazy">
             </a>

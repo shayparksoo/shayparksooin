@@ -190,6 +190,11 @@
         border-top: 1px solid #000;
         height: 492px;
     }
+
+    .circular-testing {
+        border-top: 1px solid #000;
+        height: 423px;
+    }
 }
 
 
@@ -462,7 +467,7 @@
         border-bottom: 1px solid #000;
     }
 
-    .circular-ref-1,.col-3-sec-img {
+    .circular-ref-1,.col-3-sec-img, .circular-wireframe__title  {
         border-bottom: unset;
     }
 
@@ -472,7 +477,6 @@
 
     .artifact__title,.enlarge-img-3,.circular-wire-container:first-child,.circular-wireframe__title {
         border-right: unset;
-
     }
 
     .circular-ux__title {
@@ -491,6 +495,14 @@
         width: 100%
     }
 
+    .circular-wireframe__title {
+        border-bottom:  1px solid #000;
+    }
+
+    .circular-title-testing{
+        border-bottom: unset;
+    }
+ 
     .paytrack-wire-text {
         border-bottom: unset;
     }
@@ -498,6 +510,21 @@
     .paytrack-wireframe {
         border-left: unset;
         border-top: unset;
+    }
+
+    .circular-testing{
+        border-left: unset;
+        border-right: unset;
+        border-top: unset;
+    }
+
+    .circular-wire-container.circular-testing {
+        border-right: 1px solid #000;
+        height: 585px;
+    }
+
+    .circular-wire-container.second-card {
+        border-left: unset;
     }
 
     .col-3-last-img {
@@ -570,7 +597,7 @@
     }
 
     .home-about__title-cont {
-        height: 275px;
+        height: 300px;
     }
 
     .home-contact__title-cont {
@@ -666,7 +693,13 @@
     .circular-wire-container.paytrack-wireframe {
         border-left: 1px solid #000;
         border-top: unset;
-        height: 291px;
+        height: 424px;
+    }
+
+    .circular-wire-container.circular-testing {
+        border-left: 1px solid #000;
+        border-top: unset;
+        height: 424px;
     }
 
     .col-3-last-img {
@@ -684,11 +717,16 @@
         padding: 0 160px;
     }
 
-
     .circular-wire-container.paytrack-wireframe {
         border-right: 1px solid #000;
         border-left: 1px solid #000;
         height: 245px;
+    }
+
+    .circular-wire-container.circular-testing {
+        border-right: 1px solid #000;
+        border-left: 1px solid #000;
+        height: 358px;
     }
 }
 /* -------------- // ******** 2560px ******* // --------------*/
