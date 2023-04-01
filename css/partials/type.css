@@ -36,6 +36,10 @@ b {
 }
 
 /* -------------- // Type //  --------------*/
+.h5-pb {
+    padding-bottom: 8px;
+}
+
 .caption {
     font-style: italic;
     justify-content: center;
