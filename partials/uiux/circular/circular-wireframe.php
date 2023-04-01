@@ -1,8 +1,8 @@
 <section class="circular-wireframe border-b">
     <div class="grid no-gap">
         <div class="sctn-box__title-cont col col-12-sm col-12-md col-6 circular-wireframe__title tb-r">
-            <h3>Wireframe</h3>
-            <p class="card-body padding-49-r">For lo-fi wireframes, I worked on producing layouts, placing a text holder and image holder, and adding design assets using Figma. In hi-fi wireframes, the text holder and image holder were replaced with real contents.</p><br>
+            <h3>Wireframes</h3>
+            <p class="card-body padding-49-r">For low fidelity wireframes, I worked on producing layouts, placing a text holder and image holder, and adding design assets using Figma. In high fidelity wireframes, the text holder and image holder were replaced with real contents.</p><br>
             <h3 class="h3-break">The Challenge</h3>
             <p class="card-body padding-49-r">The challenge of creating wireframes was to have a valid user flow along with an appropriate design layout for users to be satisfied with their visit.</p>
             <p class="card-body padding-49-r p-break">I thought about users' interaction on the website such as which section they would be interested to see first in navigation, how much padding is needed for users to increase the readability, and the types of feedback they would expect as they navigate through the checkout process.</p>

@@ -29,13 +29,13 @@
         </div>
         <div class="work__ind-card col col-12-sm col-6-md col-4 last-card">
             <div class="card-img">
-                <a href="<?php echo WWW_ROOT . '/uiux-onetap.php';?>"><div class="card-img__onetap card-img border-b" title="One Tap UI/UX by Shay Park"></div></a>
+                <a href="<?php echo WWW_ROOT . '/uiux-paytrack.php';?>"><div class="card-img__paytrack card-img border-b" title="PayTrack UI design by Shay Park"></div></a>
             </div>
             <div class="card-content">
-                <h3 class="card-h3">One Tap</h3>
+                <h3 class="card-h3">PayTrack</h3>
                 <p class="card-category">UI Design</p>
-                <p class="card-body">A personal UI project to design a Point of Sales System to enhance the look of a software for an efficient task completion.</p>
-                <a href="<?php echo WWW_ROOT . '/uiux-onetap.php';?>" alt="View One Tap Project"><button class="btn btn-card-top btn-outline button-txt">View Project</button></a>
+                <p class="card-body">A personal project that showcases the process of adding a new subscription in a subscription management app</p>
+                <a href="<?php echo WWW_ROOT . '/uiux-paytrack.php';?>" alt="View PayTrack Project"><button class="btn btn-card-top btn-outline button-txt">View Project</button></a>
             </div>
         </div>
     </div>

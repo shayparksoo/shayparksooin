@@ -45,7 +45,9 @@
             <div class="fade-in"><?php require('partials/uiux/circular/circular-brainstorm.php')?></div>
             <div class="fade-in"><?php require('partials/uiux/circular/circular-concept.php')?></div>
             <div class="fade-in"><?php require('partials/uiux/circular/circular-ux.php')?></div>
+            <div class="fade-in"><?php require('partials/uiux/circular/circular-userflow.php')?></div>
             <div class="fade-in"><?php require('partials/uiux/circular/circular-wireframe.php')?></div>
+            <div class="fade-in"><?php require('partials/uiux/circular/circular-testing.php')?></div>
             <div class="fade-in"><?php require('partials/uiux/circular/circular-final.php')?></div>
         </main>
 
