@@ -1,6 +1,6 @@
 <footer class="footer flex">
     <div class="footer__logo">
-        <a href="index.html"><img src="/img/logo.svg" alt="Shay Park Logo"></a>
+        <a href="index.php"><img src="/img/logo.svg" alt="Shay Park Logo"></a>
     </div>
     <div class="footer__copyright">
         <p>2023. Shay Park. All Rights Reserved.</p>

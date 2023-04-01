@@ -533,6 +533,22 @@
 
 }
 
+/* -------------- // *****769***** // --------------*/
+@media screen and (min-width: 769px) {
+    .home-about__title-cont {
+        height: 321px;
+    }
+
+}
+
+/* -------------- // *****1024px***** // --------------*/
+@media screen and (min-width: 825px) {
+    .home-about__title-cont {
+        height: 320px;
+    }
+
+}
+
 /* -------------- // *****1024px***** // --------------*/
 @media screen and (min-width: 1024px) {
     
@@ -585,11 +601,6 @@
         height: 190px;
     }
 
-    /* .artifact__specs {
-        padding-left: 34px;
-    } */
-    
-
     /*-------------- // 1024 HOME //  --------------*/
     .home-hero__logo {
         justify-content: center;
@@ -628,7 +639,6 @@
     }
 
     .profile {
-        /* width: 600px; */
         height: 421px;
     }
 
@@ -884,11 +894,5 @@
     .enlarge-img-2 {
         border-right: unset;
     }
-
-
-
-
-    
-
 
 }
