@@ -232,10 +232,6 @@
         padding: 45px 58px;
     }
 
-    /* .work__ind-card.card-content.card-h3 {
-        padding-top: 0;
-    } */
-
     .grid {
         padding: 0 72px;
     }
@@ -266,6 +262,18 @@
     .sctn-box__title-cont {
         padding: 40px 34px 46px;
     }
+
+    /*-------------- // 768 GN //  --------------*/
+    /* .gn-container {
+        position: fixed;
+        width: 100%;
+        background-color: #fff;
+        z-index: 99;
+    }
+    
+    .home-hero__cont {
+        margin-top: 60px;
+    } */
 
     /*-------------- // 768 HEADER //  --------------*/
     .about-header__cont {
@@ -315,11 +323,11 @@
     }
 
     .home-about__title-cont {
-        height: 303px;
+        height: 321px;
     }
 
     .home-contact__title-cont {
-        height: 303px;
+        height: 321px;
     }
 
     .home-right {

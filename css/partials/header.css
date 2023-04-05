@@ -2,7 +2,7 @@
 .gn-container {
     align-items: center;
     padding: var(--column-gap);
-    border-bottom: 1px solid 
+    border-bottom: 1px solid;
 }
 
 .gn {
@@ -12,10 +12,6 @@
     padding-right: 10px;
 }
 
-/* #gn {
-    overflow: hidden;
-    background-color: #fff;
-} */
 
 .gn__logo {
     width: 34px;
