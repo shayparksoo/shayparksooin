@@ -7,6 +7,7 @@
             <div class="card-content">
                 <h3 class="card-h3">Circular</h3>
                 <p class="card-category">UI/UX Design</p>
+
                 <p class="card-body">Researching the user experience of a checkout and registration process to improve user satisfaction and usability.</p>
                 <a href="<?php echo WWW_ROOT . '/uiux-circular.php';?>" alt="View Circular Project"><button class="btn btn-card-top btn-outline button-txt">View Project</button></a>
             </div>
