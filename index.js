@@ -54,28 +54,3 @@ $(function() {
         ],
     });
 });
-
-
-// $(function() {
-
-//     var lazyLoadInstance = new LazyLoad({
-
-//     });
-// });
-
-
-// window.onscroll = function() {myFunction()};
-
-// var gn = document.getElementById("gn");
-
-// var sticky = gn.offsetTop;
-
-// function myFunction() {
-
-//     if (window.pageYOffset >= sticky) {
-//     gn.classList.add("sticky")
-//   } else {
-//     gn.classList.remove("sticky");
-//   }
-
-// }
