@@ -42,6 +42,7 @@
             <div class="fade-in"><?php require('partials/uiux/paytrack/paytrack-title.php')?></div>
             <div class="fade-in"><?php require('partials/uiux/paytrack/paytrack-preview.php')?></div>
             <div class="fade-in"><?php require('partials/uiux/paytrack/paytrack-purpose.php')?></div>
+            <div class="fade-in"><?php require('partials/uiux/paytrack/paytrack-mission.php')?></div>
             <div class="fade-in"><?php require('partials/uiux/paytrack/paytrack-concept.php')?></div>
             <div class="fade-in"><?php require('partials/uiux/paytrack/paytrack-wireframe.php')?></div>
             <div class="fade-in"><?php require('partials/uiux/paytrack/paytrack-challenges.php')?></div>
