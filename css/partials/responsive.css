@@ -166,10 +166,14 @@
         width: 99.7%;
     }
 
+    .circular-wireframe__title {
+        border-bottom: 1px solid #000;
+    }
+
     .circular-wire-container {
         height: 400px;
     }
-
+    
     .artifact__title,.artifact-concept__title,.circular-ux__title {
         border-left: 1px solid #000;
     }
