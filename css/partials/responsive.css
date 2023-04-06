@@ -381,13 +381,9 @@
         text-align: end;
         left: -8%;
     }
-
-    .about-bio-txt {
-        padding: 100px 49px;
-    }
     
     .about-bio-txt {
-        padding: 40px 38px;
+        padding: 40px 16px 40px 38px;
         border: 0;
     }
     
@@ -553,7 +549,7 @@
 
 }
 
-/* -------------- // *****1024px***** // --------------*/
+/* -------------- // *****825px***** // --------------*/
 @media screen and (min-width: 825px) {
     .home-about__title-cont {
         height: 320px;
@@ -651,7 +647,7 @@
     }
 
     .profile {
-        height: 421px;
+        height: 480px;
     }
 
   
@@ -672,6 +668,11 @@
 
     .work_onetap {
         border-right: 1px solid #000;
+    }
+
+    .about-bio-txt {
+        padding: 40px 0px 50px 38px;
+        border: 0;
     }
 
     /*-------------- // 1024 PORTFOLIO PAGE //  --------------*/
@@ -883,6 +884,11 @@
     .home-left {
         top: 64%;
         right: -7%;
+    }
+
+    /* -------------- // Home //  --------------*/
+    .about-bio-txt {
+        padding: 40px 240px 50px 38px;
     }
 
     /* -------------- // Artifacts //  --------------*/
