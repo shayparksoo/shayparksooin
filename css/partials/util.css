@@ -56,6 +56,13 @@
     padding-left: 36px;
 }
 
+.padding-li-hypo {
+    padding-left: 20px;
+}
+.li-pb {
+    padding-bottom: 20px;
+}
+
 .primary-btn-txt {
     color: #fff;
 }

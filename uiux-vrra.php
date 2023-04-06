@@ -42,6 +42,7 @@
             <div class="fade-in"><?php require('partials/uiux/vrra/vrra-title.php')?></div>
             <div class="fade-in"><?php require('partials/uiux/vrra/vrra-preview.php')?></div>
             <div class="fade-in"><?php require('partials/uiux/vrra/vrra-purpose.php')?></div>
+            <div class="fade-in"><?php require('partials/uiux/vrra/vrra-hypotheses.php')?></div>
             <div class="fade-in"><?php require('partials/uiux/vrra/vrra-testing.php')?></div>
             <div class="fade-in"><?php require('partials/uiux/vrra/vrra-ux.php')?></div>
             <div class="fade-in"><?php require('partials/uiux/vrra/vrra-final.php')?></div>

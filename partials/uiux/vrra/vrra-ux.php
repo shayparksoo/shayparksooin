@@ -14,21 +14,22 @@
             <h5>Key Takeaways</h5>
             <p class="card-body padding-49-r">
                 <ol type="1" class="padding-li">
-                    <li>Problems with navigating through UI and adoption process</li>
-                    <li>Problems choosing a donation option due to lack of centralization</li>
-                    <li>Problems buying item because of unorganized categories</li>
+                    <li>Inefficient navigation to the adoption process because of disorganized content and navigation</li>
+                    <li>Difficulty in choosing a correct donation option due to lack of centralization</li>
+                    <li>A confusion during the purchase because of unorganized content and misleading explanation of the purchase process</li>
                 </ol> 
             </p>
             <h5 class="h5-break">Possible Improvement</h5>
             <p class="card-body padding-49-r">
                 <ol type="1" class="padding-li">
                     <li>Improve <b>layout</b> to make the adoption process more <b>intuitive </b>categorization and hierarchy</li>
-                    <li>Centralize donation process and make a <b>clear Call To Action</b></li>
-                    <li><b>Organize</b> store items by category and include descriptions  </li>
+                    <li><b>Centralize</b> donation options into one path and make a <b>clear Call To Action</b></li>
+                    <li>Implement <b>ecommerce solution</b> and redesign the content in a card style layout</li>
                 </ol> 
             </p>
-            <p class="card-body padding-49-r p-break">From the user testing, we realized that the website needs to have a clear layout that users can search and explore. This was done through condensing contexts, giving a hierarchy in typography and color, and organizing the layout into related categories. </p>
-            <p class="card-body padding-49-r p-break">We recommended a design that users will find easability and understanding to navigate the website.</p>
+            <p class="card-body padding-49-r p-break"><i>*Item purchase is not included in the final product as it is the work of the other member.</i></p>
+            <p class="card-body padding-49-r p-break">The main takeaway I took from this project was determining the <b>goal</b> of the website and using design to <b>support</b> the goal. The problem of the website was that the emphasis on adoption and donation were reduced by the confusing layout and overwhelming contents.</p>
+            <p class="card-body padding-49-r p-break">The prototype was designed to increase the satisfaction of users by helping them to find their goals and ease of use.</p>
         </div>
         <div class="sctn-box__body-cont col col-12-sm col-4-md col-2">
             <a href="../img/vrra-test-1.png" data-lightbox="ref-img">
