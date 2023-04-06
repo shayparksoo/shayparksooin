@@ -35,6 +35,10 @@ b {
     color: #3E492E;
 }
 
+i {
+    font-style: italic;
+}
+
 /* -------------- // Type //  --------------*/
 .h5-pb {
     padding-bottom: 8px;
