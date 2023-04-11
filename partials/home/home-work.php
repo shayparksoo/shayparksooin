@@ -1,6 +1,6 @@
-<section class="home-work border-b">
+<section class="home-work border-t border-b">
     <div class="main-title flex">
-        <h2>Recent Works</h2>
+        <h2>Featured Works</h2>
     </div>
 </section>
 <section class="home-work border-b">

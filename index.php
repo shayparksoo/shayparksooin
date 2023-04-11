@@ -42,8 +42,8 @@
 
             <main data-barba="container" data-barba-namespace="home-section">
                 <div class="fade-in"><?php require('partials/home/home-hero.php')?><div>
-                <div class="fade-in"><?php require('partials/home/home-about.php')?><div>
                 <div class="fade-in"><?php require('partials/home/home-work.php')?><div>
+                <div class="fade-in"><?php require('partials/home/home-about.php')?><div>
                 <div class="fade-in"><?php require('partials/home/home-contact.php')?><div>
             </main>
         </div>
