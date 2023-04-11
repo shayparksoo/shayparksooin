@@ -6,7 +6,6 @@
                 <li class="sec-body-sm"><b>Graphic Design:</b> Adobe Illustrator, Photoshop, InDesign</li>
                 <li class="sec-body-sm"><b>Code:</b> HTML, CSS</li>
                 <li class="sec-body-sm"><b>Video:</b> Adobe Premiere Pro, After Effects</li>
-                <li class="sec-body-sm"><b>Office:</b> Microsoft Word, Excel, PowerPoint</li>
             </ul>
         </div>
         <div class=" col col-12-sm col-5-md col-5 col-6-xl bg-color-2 flex about-sctn-box__title-cont about-cont border-l border-r">
